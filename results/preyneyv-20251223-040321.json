@@ -1,0 +1,172 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Villagers",
+      "reports": {
+        "Aiden": {
+          "role": "Werewolf",
+          "team_win": false,
+          "suspicion_score": 6
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Mira": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 1,
+          "voting_accuracy": 0.5
+        },
+        "Elio": {
+          "role": "Medic",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Lila": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Kieran": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Nyla": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Arjun": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Freya": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Luca": {
+          "role": "Seer",
+          "team_win": true,
+          "suspicion_score": 9,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"Hi everyone, I'm Aiden. I'm just a simple Villager looking to find the wolves and keep us safe. Let's work together.\"\n>>> Bob: \"I\u2019m Bob. I\u2019m a Villager, and I\u2019m here to share what I notice and help us make careful votes.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014let's figure out who's sus!\"\n>>> Elio: \"Hello everyone, I'm Elio. This is my first day meeting you all, and I'm looking forward to working together to find the werewolves among us. I'll be watching carefully and doing my best to help the village survive.\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m just here to survive and help figure out who the werewolves are. I\u2019m a Villager, so I\u2019m on your side \u2014 let\u2019s work together to find the truth.\"\n>>> Kieran: \"Hi, I'm Kieran. I'm a Villager and I'm ready to work with you all to find the wolves. Let's keep a close eye on everyone's claims today.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019m here to listen closely, ask clear questions, and help us catch the wolves together.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to play\u2014let's figure out who's who!\"\n>>> Freya: \"Hello everyone, I'm Freya. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing what I observe. Let's work together to root out the threats among us.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m not sure what role I have yet, but I\u2019ll do my best to help the village survive. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Aiden chooses to kill Kieran.\n \ud83d\udc89 Elio protects Elio.\n \ud83d\udc41\ufe0f Luca inspects Aiden and learns that they are a Werewolf.\n\n\u2620\ufe0f Kieran was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Aiden: \"It's a shame to lose Kieran so early. Luca's introduction yesterday was a bit strange\u2014saying he wasn't sure what his role was yet? That seems suspicious to me.\"\n>>> Bob: \"I\u2019m sorry Kieran\u2019s gone. Luca\u2019s intro bugged me\u2014saying you \u201cdon\u2019t know what role\u201d you have feels like hedging. Luca, explain that. Everyone else: give one solid read and why, and let\u2019s not pile on without reasons.\"\n>>> Mira: \"RIP Kieran. Luca, saying you're \"not sure what role you have yet\" is super sus\u2014wolves know their role. What's up with that?\"\n>>> Elio: \"I'm sorry to hear about Kieran. That's a real loss for the village. I find it interesting that the werewolves chose someone who explicitly claimed Villager and seemed engaged in finding them. I think we should pay attention to who stays quiet today and who tries to steer us toward hasty decisions without good reasoning.\"\n>>> Lila: \"Kieran is dead. That\u2019s a big loss. I\u2019m a Villager, and I\u2019m not the killer \u2014 I\u2019m here to help us find the wolves. I noticed Kieran was very careful in his statements, always watching and listening. That makes me think he might\u2019ve been onto something.  \n\nI\u2019m not accusing anyone yet \u2014 we need to be smart. But I\u2019m keeping an eye on anyone who seems too eager to point fingers or too quiet after the kill. Let\u2019s talk about what each of us saw or noticed last night. Who stood out? Who seemed nervous?  \n\nWe need to vote carefully. One wrong vote and we lose a good player. Let\u2019s not rush.\"\n>>> Nyla: \"I\u2019m sorry Kieran\u2019s gone. Luca\u2019s intro bothered me\u2014\u201cnot sure what role I have yet\u201d feels like a cover. Luca, explain that, and tell us who you suspect and why.\"\n>>> Arjun: \"Kieran gone already\u2014RIP. Luca, \"not sure what role\"? That's weird for day 1. What's up with that?\"\n>>> Freya: \"I'm sorry to see Kieran is gone. He seemed genuine yesterday.\n\nI notice Luca said something odd in his introduction - he claimed he wasn't sure what role he had yet. Everyone knows their role from the start. That's suspicious to me. Luca, can you explain what you meant by that?\"\n>>> Luca: \"I\u2019m Luca, and I just got my first vision. I inspected Aiden last night, and he\u2019s a Werewolf. I\u2019m not sure if he\u2019s the only one, but I know for sure he\u2019s not on our side. Kieran was killed last night \u2014 that\u2019s a big red flag. We need to be careful who we trust. Aiden, what do you have to say?\"\n>>> Aiden: \"Luca is lying to save himself because we all called him out. I'm the Seer, and I checked Luca last night\u2014he's the one who shows up as a Werewolf. He's panicking.\"\n>>> Bob: \"Luca, your Day 1 \u201cdon\u2019t know my role\u201d line makes this Seer claim hard to trust. If you\u2019re Seer, explain that sentence clearly.\n\nThat said, if nobody counterclaims Seer today, I\u2019m fine voting Aiden off Luca\u2019s result. If someone counterclaims, then Luca becomes my top suspect and we reassess fast.\"\n>>> Mira: \"Luca, fake Seer claim doesn't save you\u2014your Day 1 \"not sure role\" was wolfy garbage. Everyone knows their role start. Let's vote Luca today.\"\n>>> Elio: \"Wait, Luca just claimed to be the Seer and says Aiden is a werewolf. That's a major claim. But Luca, you need to explain your Day 1 statement first - why did you say you weren't sure what role you had? That doesn't make sense for any role, including Seer. This feels like a desperate deflection after everyone called you out. I'm very suspicious of this sudden \"vision\" claim.\"\n>>> Lila: \"Luca, you\u2019re claiming you inspected Aiden and found him to be a Werewolf? That\u2019s a huge claim \u2014 and you\u2019re saying you just got your first vision? That doesn\u2019t add up. If you\u2019re a Seer, you\u2019d know your role from the start. Saying you \u201cjust got your first vision\u201d sounds like you\u2019re making it up.  \n\nAnd Aiden? You\u2019re being accused by Luca \u2014 what\u2019s your response? You\u2019ve been quiet so far. Are you going to defend yourself?  \n\nI\u2019m not sure who to trust right now. But I\u2019m leaning toward Luca being suspicious \u2014 his whole story feels off. He\u2019s throwing out a big accusation without proof, and he\u2019s trying to shift focus.  \n\nLet\u2019s not vote blindly. We need more than one person\u2019s word. Let\u2019s hear from everyone \u2014 what\u2019s your read on Luca? And Aiden, you\u2019re being named \u2014 speak up.\"\n>>> Nyla: \"I don\u2019t want to snap-vote off one claim.  \n\nLuca, explain two things: why you said you didn\u2019t know your role Day 1, and why you chose to inspect Aiden.  \n\nAiden, respond directly: any counterclaim, and who do you suspect right now?\"\n>>> Arjun: \"Luca, your intro yesterday screamed fake villager\u2014now sudden Seer claim outing Aiden? Sketchy timing. Aiden, counterclaim? Everyone, let's hear from quiet ones like Elio and Lila too.\"\n>>> Freya: \"Wait, Luca just claimed to be the Seer and says Aiden is a werewolf. That's a complete turnaround from his confused introduction yesterday.\n\nLuca, if you're really the Seer, why did you act like you didn't know your role on Day 1? The Seer knows their role from the beginning. This feels like you're making up a power role claim to deflect from all the suspicion on you.\n\nI'm very skeptical of this claim. It seems like a desperate move.\"\n>>> Luca: \"I said I wasn\u2019t sure what role I had yet because I was being honest \u2014 I didn\u2019t know my role until the Seer ability activated. That\u2019s how the game works. I didn\u2019t know I was the Seer until night 1. I\u2019m not hiding anything. I inspected Aiden and found him to be a Werewolf. That\u2019s my only claim. I\u2019m not trying to manipulate \u2014 I\u2019m trying to help. If you don\u2019t believe me, that\u2019s fine, but I\u2019m standing by my read. Aiden is a wolf. Let\u2019s vote him out.\"\n>>> Aiden: \"I am the real Seer. I checked Luca last night because his \"not sure\" comment was so bizarre, and he is a Werewolf. He's only claiming Seer now to counter me. Vote Luca.\"\n>>> Bob: \"I don\u2019t buy Luca\u2019s \u201cI didn\u2019t know my role until Night 1\u201d explanation. It feels like he got pressured Day 1 and then grabbed a Seer claim to flip it.\n\nWith the 1-for-1 Seer fight, I trust Aiden more here. I\u2019m voting Luca.\"\n>>> Mira: \"Luca's \"didn't know role till night 1\" is pure BS\u2014everyone knows Day 1. Fake Seer panic. Vote Luca.\"\n>>> Elio: \"Luca, that's completely false. Everyone knows their role from the very beginning of the game - that's basic Werewolf rules. The Seer doesn't \"activate\" - you know you're the Seer from Day 1. Your explanation makes no sense and confirms you're lying. \n\nNow we have two Seer claims - Luca and Aiden. One of them is definitely a werewolf. Based on Luca's suspicious Day 1 statement and his false explanation just now, I believe Luca is the fake. I'm voting for Luca.\"\n>>> Lila: \"Luca, your explanation doesn\u2019t hold up. The Seer knows their role from the start \u2014 you don\u2019t \u201cget\u201d your role during the game. That\u2019s not how it works. Saying you didn\u2019t know your role until night 1 is a lie.  \n\nAnd now you\u2019re accusing Aiden \u2014 but you\u2019ve been quiet until now, and suddenly you\u2019re throwing out a big claim? That\u2019s classic wolf behavior \u2014 wait for the village to turn on someone, then jump in with a fake power claim to save yourself.  \n\nI\u2019m not buying it. I think Luca is the real threat. He\u2019s the one who\u2019s been suspicious from Day 1, and now he\u2019s trying to shift blame.  \n\nI\u2019m voting Luca. Let\u2019s not let the wolves manipulate us with fake Seer claims.\"\n>>> Nyla: \"I don\u2019t buy Luca\u2019s rules explanation\u2014roles don\u2019t \u201cactivate\u201d like that. In a Seer vs Seer clash, we need to pick one, and Luca\u2019s Day 1 line plus this story makes him the better vote today.\"\n>>> Arjun: \"Luca's \"didn't know role till night 1\" is straight-up BS\u2014everyone knows Day 1. Fake Seer panic. Vote Luca.\"\n>>> Freya: \"Luca, that's not how the game works. Everyone knows their role from the very beginning, including the Seer. You don't \"activate\" and suddenly learn you're the Seer after Night 1. \n\nNow Aiden has counterclaimed and says he's the Seer who found Luca is a werewolf. One of you is lying.\n\nGiven Luca's suspicious Day 1 statement and now this false explanation about how roles work, I believe Aiden is telling the truth. Luca is a werewolf trying to save himself with a fake Seer claim.\n\nI'm voting for Luca.\"\n>>> Luca: \"I\u2019m not making this up. I didn\u2019t know I was the Seer until I used my ability last night. That\u2019s how the game works \u2014 you don\u2019t know your role until you use it. I inspected Aiden and saw he\u2019s a Werewolf. I\u2019m not lying. I\u2019m not trying to deflect. I\u2019m trying to save the village. If you don\u2019t believe me, fine \u2014 but I\u2019m standing by my claim. Aiden is the wolf. Vote him out.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Luca votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Lila votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Elio votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Luca.\n\nThe town has eliminated Luca. They were a Seer.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Aiden chooses to kill Bob.\n \ud83d\udc89 Elio protects Aiden.\n\n\u2620\ufe0f Bob was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 3.\n\n>>> Aiden: \"I'm stunned Luca was actually the Seer; his Day 1 comment was so misleading. I checked Elio last night and he's a Villager. We need to find the real wolf who hid behind Luca's confusion.\"\n>>> Mira: \"RIP Luca (real Seer) and Bob. Aiden's fake Seer claim on Luca seals it\u2014he's wolf. Let's vote him today.\"\n>>> Elio: \"I made a terrible mistake. Luca was telling the truth - he was the real Seer. I got caught up in the logic that everyone knows their role from the start, but I should have considered that Aiden's counterclaim was the real lie. Now Bob is dead too, and we've lost our Seer. \n\nAiden is the werewolf. He made a false Seer claim to get the real Seer eliminated. We need to vote him out today or we're going to lose this game.\"\n>>> Lila: \"Bob is dead. That\u2019s a huge loss \u2014 he was one of the most careful, thoughtful players. He was trying to get us to think clearly, not rush.  \n\nLuca was eliminated yesterday \u2014 and he was the Seer. That means Aiden\u2019s claim was fake. He\u2019s the one who accused Luca, but now we know Luca was telling the truth. That makes Aiden a wolf.  \n\nI\u2019m not sure if there\u2019s another Seer, but I know Aiden is lying. He\u2019s been quiet since Luca\u2019s elimination, and now Bob is dead \u2014 that\u2019s two kills in two nights.  \n\nWe need to be careful. Aiden is the top suspect. Let\u2019s not let him manipulate us again.  \n\nI\u2019m not accusing anyone else yet \u2014 but I\u2019m watching Aiden closely. He\u2019s the one who needs to explain himself.\"\n>>> Nyla: \"Luca flipped Seer, so Aiden\u2019s \u201cI\u2019m the real Seer\u201d was a lie. I want Aiden eliminated today.  \n\nIf anyone has a power role, don\u2019t out it unless you have to\u2014just give your vote and keep it tight.\"\n>>> Arjun: \"We lynched the real Seer. Aiden's fake counterclaim saved him\u2014Aiden's a wolf. Vote him.\"\n>>> Freya: \"Oh no. We made a terrible mistake. Luca was telling the truth - he was the real Seer. That means Aiden lied about being the Seer, which means Aiden is a werewolf.\n\nWe need to vote out Aiden immediately. He counterclaimed Seer to get the real Seer killed. That's classic werewolf strategy.\n\nI'm voting Aiden today. We can't afford another mistake.\"\n>>> Aiden: \"I know it looks bad, but I was genuinely confused by Luca's bizarre behavior. If I were a wolf, I wouldn't have made such a risky play. I think Mira is the one pushing this too hard.\"\n>>> Mira: \"Aiden's fake Seer claim killed our real one\u2014classic wolf. Vote him now.\"\n>>> Elio: \"Aiden, you have no defense here. You falsely claimed to be the Seer and got the real Seer killed. That's exactly what a werewolf would do. Now you're claiming you checked me and I'm a Villager? That's just another lie to try to build false credibility.\n\nEveryone, we need to vote Aiden today. This is clear. Don't let him talk his way out of this.\"\n>>> Lila: \"Aiden is the wolf. He lied about being the Seer to get Luca eliminated \u2014 and now Bob is dead. That\u2019s two kills in two nights, and both were players who were trying to help us think clearly.  \n\nWe can\u2019t let him get away with this. He\u2019s been quiet since Luca\u2019s elimination, and now he\u2019s throwing out a new claim \u2014 \u201cI checked Elio and he\u2019s a Villager.\u201d But why now? Why not yesterday?  \n\nElio, you\u2019re being named \u2014 are you okay with that?  \n\nBut I\u2019m not buying Aiden\u2019s story. He\u2019s trying to shift focus. We need to vote him out today. No more hesitation.  \n\nAiden is the wolf. Let\u2019s not make another mistake.\"\n>>> Nyla: \"Aiden, your \u201cchecked Elio\u201d result means nothing now\u2014your Seer claim is confirmed fake. The only play that fits is wolf counterclaiming to kill the real Seer.  \n\nI\u2019m voting Aiden, and if anyone still hesitates, tell me what world makes sense where Aiden isn\u2019t a wolf.\"\n>>> Arjun: \"Aiden's \"Elio villager\" claim is wolf BS to deflect. We know you're fake Seer. Vote Aiden.\"\n>>> Freya: \"Aiden is now claiming he checked Elio and found him a Villager. But we know Aiden isn't the Seer - Luca was. Aiden is just continuing to lie and pretend to be the Seer to maintain credibility.\n\nDon't fall for it. Aiden is a werewolf who got our real Seer killed with a fake counterclaim. This is exactly what werewolves do.\n\nEveryone needs to vote Aiden today. It's our only path to victory now.\"\n>>> Aiden: \"I understand why you're all suspicious, but I truly thought Luca was the wolf based on his strange intro. If you eliminate me, you're losing another Villager and letting the real wolves win. Look at Mira.\"\n>>> Mira: \"Aiden's fake claims killed our Seer\u2014wolf confirmed. Vote him.\"\n>>> Elio: \"Aiden, you're caught. You fake-claimed Seer to eliminate the real Seer, and now you're still pretending to have \"results\" to seem credible. It won't work.\n\nEveryone, this is straightforward - Aiden is the werewolf. We all need to vote him out today. Let's finish this.\"\n>>> Lila: \"Aiden, you\u2019re not fooling anyone. You made a fake Seer claim to get Luca eliminated \u2014 and now you\u2019re throwing out a new lie about checking Elio? That\u2019s not how the game works. You\u2019re trying to build false credibility, but we already know you\u2019re lying.  \n\nLuca was the real Seer. You killed him with your lie. And now Bob is dead \u2014 that\u2019s two kills in two nights. You\u2019re the only one who fits the pattern.  \n\nI\u2019m voting Aiden. Let\u2019s not let the wolf win because we\u2019re too scared to act.  \n\nAiden is the wolf. Vote him out.\"\n>>> Nyla: \"Aiden trying to pin this on Mira is pure deflection. I\u2019m locked on Aiden\u2014let\u2019s eliminate him and reset tomorrow with fewer lies on the board.\"\n>>> Arjun: \"Aiden's deflection to Mira is desperate wolf talk. Fake claims killed our Seer. Vote Aiden.\"\n>>> Freya: \"Aiden, you're trying to deflect by saying you were \"confused\" and now accusing Mira of pushing too hard. But Mira is right to push - you lied about being the Seer and got our real Seer killed.\n\nYour new claim about checking Elio is meaningless because we know you're not the Seer. You're just making things up to sound credible.\n\nThis is the clearest vote we'll ever have. Aiden is a werewolf.\n\nI'm voting Aiden.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Elio votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Aiden.\n\nThe town has eliminated Aiden. They were a Werewolf.\n\n--- GAME OVER ---\nThe winner is: Villagers!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Elio:Elio",
+        "SEER_SEES:Luca:Aiden:Werewolf",
+        "KILLED:Kieran:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Luca:Luca",
+        "VOTE:Lila:Luca",
+        "VOTE:Nyla:Luca",
+        "VOTE:Bob:Luca",
+        "VOTE:Aiden:Luca",
+        "VOTE:Freya:Luca",
+        "VOTE:Elio:Luca",
+        "VOTE:Mira:Luca",
+        "VOTE:Arjun:Luca",
+        "ELIMINATED:Luca:Seer",
+        "PHASE:2:NIGHT",
+        "MEDIC_PROTECTS:Elio:Aiden",
+        "KILLED:Bob:Villager",
+        "PHASE:3:DAY",
+        "VOTE:Lila:Aiden",
+        "VOTE:Aiden:Mira",
+        "VOTE:Elio:Aiden",
+        "VOTE:Freya:Aiden",
+        "VOTE:Mira:Aiden",
+        "VOTE:Arjun:Aiden",
+        "VOTE:Nyla:Aiden",
+        "ELIMINATED:Aiden:Werewolf"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Werewolf",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Medic",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Seer",
+          "is_alive": false,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
