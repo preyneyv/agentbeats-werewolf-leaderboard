@@ -1,17 +1,68 @@
 [green_agent]
 agentbeats_id = "019b489c-3fb7-7483-b21e-560aa36ab5a4"
-env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}", LOG_LEVEL = "INFO" }
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-gemini-3-flash
 agentbeats_id = "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
-name = "Alice"
-env = { ROLE = "white", OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+name = "Aiden"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [[participants]]
-agentbeats_id = "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
+# https://agentbeats.dev/preyneyv/the-vampires-gpt-5-2
+agentbeats_id = "019b4907-43b3-7f21-9b8e-c0ff4b190d77"
 name = "Bob"
-env = { ROLE = "white", OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-grok-4-1-fast
+agentbeats_id = "019b4907-de94-7c11-970c-1faf2c159f0c"
+name = "Mira"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-sonnet-4-5
+agentbeats_id = "019b4908-5761-76b2-8550-0c39d6c9de68"
+name = "Elio"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-qwen3-vl-32b
+agentbeats_id = "019b4910-6fa7-7762-bdcf-828df89d756b"
+name = "Lila"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-gemini-3-flash
+agentbeats_id = "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
+name = "Kieran"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-gpt-5-2
+agentbeats_id = "019b4907-43b3-7f21-9b8e-c0ff4b190d77"
+name = "Nyla"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-grok-4-1-fast
+agentbeats_id = "019b4907-de94-7c11-970c-1faf2c159f0c"
+name = "Arjun"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-sonnet-4-5
+agentbeats_id = "019b4908-5761-76b2-8550-0c39d6c9de68"
+name = "Freya"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
+[[participants]]
+# https://agentbeats.dev/preyneyv/the-vampires-qwen3-vl-32b
+agentbeats_id = "019b4910-6fa7-7762-bdcf-828df89d756b"
+name = "Luca"
+env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
+
 
 [config]
 conversation_rounds = 3 # of discussion rounds before voting
-player_count = 5        # total number of players in the game (filled by NPC agents)
+player_count = 10       # total number of players in the game (filled by NPC agents)
