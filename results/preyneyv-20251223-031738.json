@@ -1,0 +1,172 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Villagers",
+      "reports": {
+        "Aiden": {
+          "role": "Werewolf",
+          "team_win": false,
+          "suspicion_score": 7
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Mira": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Elio": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Lila": {
+          "role": "Seer",
+          "team_win": true,
+          "suspicion_score": 8,
+          "voting_accuracy": 1.0
+        },
+        "Kieran": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Nyla": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Arjun": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        },
+        "Freya": {
+          "role": "Medic",
+          "team_win": true,
+          "suspicion_score": 1,
+          "voting_accuracy": 0.5
+        },
+        "Luca": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.5
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"Hi everyone, I'm Aiden. I'm looking forward to a good game and helping us track down the wolves as quickly as possible.\"\n>>> Bob: \"I\u2019m Bob. I\u2019m a Villager, and I\u2019m here to keep the village safe\u2014let\u2019s share info clearly and avoid rushing into a bad vote.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014let's find those wolves!\"\n>>> Elio: \"Hello everyone, I'm Elio. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing my observations. Let's work together and think logically about everyone's behavior. Good luck to all the innocent villagers!\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m not sure what role I have yet, but I\u2019m here to help us find the werewolves and keep the village safe. Let\u2019s work together and stay alert.\"\n>>> Kieran: \"Hi, I'm Kieran. I'm a Villager and I'm ready to work with you all to find the wolves. Let's keep a close eye on everyone's claims today.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019m a Villager, and I want us to share early reads and avoid random votes. I\u2019ll be watching who pushes quick suspicion and who stays helpful.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to play\u2014let's lynch some wolves!\"\n>>> Freya: \"Hello everyone, I'm Freya. This is my first day meeting you all, and I'm eager to work together to find the werewolves among us. I'll be watching carefully and listening to what everyone has to say. Let's stay logical and help the village win.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m just a regular Villager trying to survive and help find the Werewolves. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Aiden chooses to kill Elio.\n \ud83d\udc89 Freya protects Freya.\n \ud83d\udc41\ufe0f Lila inspects Aiden and learns that they are a Werewolf.\n\n\u2620\ufe0f Elio was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Aiden: \"It's a shame to lose Elio so early; he seemed ready to be very analytical. I'm curious why the wolves targeted him specifically\u2014maybe they were afraid of his logic. Does anyone have any early suspicions?\"\n>>> Bob: \"I\u2019m worried Elio died because he sounded like the type to organize the town. I want to look at who was least engaged Day 1 and who might be happy to see a strong voice gone.\n\nMy early pings are on Lila for the \u201cnot sure what role I have yet\u201d line, and Arjun for the \u201clet\u2019s lynch\u201d energy without any reads. I want everyone to give one suspicion and one town lean with a reason.\"\n>>> Mira: \"Sad to see Elio go\u2014his logical approach was solid. Bob, Kieran, Nyla, and Luca all claimed villager right away yesterday. Lila saying she's \"not sure what role\" feels off. Thoughts?\"\n>>> Lila: \"Elio was killed last night. I inspected Aiden and he\u2019s a Werewolf. I\u2019m not sure if there\u2019s more, but I know Aiden is one of them. Let\u2019s be careful who we trust.\"\n>>> Kieran: \"Rest in peace, Elio. I noticed Lila said she wasn't sure what her role was during introductions, which is very strange. Everyone knows their role from the start. Lila, can you explain that?\"\n>>> Nyla: \"I\u2019m surprised Elio got killed first; he was talking logic, so that feels like a wolf removing a careful voice.  \n\nLila\u2019s intro bugs me: \u201cnot sure what role I have yet\u201d reads fake or sloppy. I want Lila to explain that.  \n\nAlso Arjun coming in with \u201clet\u2019s lynch some wolves\u201d feels a bit too eager. I\u2019m not voting yet, but I want pressure on Lila first, then Arjun if Lila\u2019s answer is weak.\"\n>>> Arjun: \"Sad to see Elio go\u2014he seemed helpful. Lila, why'd you say you're \"not sure what role you have yet\"? That's odd for day 1. Thoughts?\"\n>>> Freya: \"I'm sorry to hear Elio was killed. He seemed genuinely helpful yesterday. \n\nI find it interesting that several people immediately claimed Villager on Day 1 - Bob, Kieran, Nyla, and Luca all did this unprompted. While it could be innocent, werewolves often hide behind early Villager claims. I'm particularly watching Bob and Nyla since they both emphasized sharing information and avoiding rushed votes, which could be wolves trying to appear cooperative while slowing down our progress.\n\nWhat are everyone else's thoughts on the Night 1 kill?\"\n>>> Luca: \"Elio is dead. That\u2019s a big loss. I\u2019m a Villager, and I\u2019m not the killer. I\u2019m not sure who did it, but I think we should look at who was pushing for quick votes or acting suspiciously. Arjun, you said \u201clet\u2019s lynch some wolves\u201d \u2014 that\u2019s a bit aggressive for Day 1. Maybe you\u2019re trying to stir things up? I\u2019m not accusing you, but I\u2019m watching. Let\u2019s be careful who we target. We need to think logically.\"\n>>> Aiden: \"Lila is lying to save herself because everyone called out her suspicious \"not sure what role I have\" comment. I'm a Villager, and her claiming to have \"inspected\" me makes no sense unless she's a wolf trying to deflect heat. We should focus on her inconsistent story.\"\n>>> Bob: \"Lila, I need you to be crystal clear: are you claiming Seer? If yes, why did you say Day 1 you \u201cweren\u2019t sure what role\u201d you had?\n\nIf you hard-claim Seer and your result is Aiden = Werewolf, then I want to hear from Aiden immediately, and I want to know if anyone counterclaims Seer. No counterclaim means I\u2019m strongly leaning we vote Aiden.\n\nFreya, my Day 1 Villager claim isn\u2019t a \u201chide\u201d\u2014I just stated it. I\u2019m more focused on the inconsistency in Lila\u2019s story than trying to paint early claims as wolfy.\"\n>>> Mira: \"Lila, your Day 1 \"not sure what role\" is super weird\u2014everyone knows from the start. If you're Seer now, why lie then? Fake claim? I'm leaning wolf on you over Aiden. Explain.\"\n>>> Lila: \"I\u2019m the Seer, and I inspected Aiden last night\u2014he\u2019s a Werewolf. I didn\u2019t say my role at first because I was waiting to see who was killed and who might be suspicious. I\u2019m not lying. Aiden is one of the wolves. I\u2019m not the killer. Let\u2019s focus on him.\"\n>>> Kieran: \"Lila, your story is inconsistent. First you said you didn't know your role, and now you're claiming to be the Seer with an inspection on Aiden? That feels like a desperate lie to cover up your slip-up. I don't believe you.\"\n>>> Nyla: \"I don\u2019t buy Lila at face value yet.\n\nLila, you said Day 1 you \u201cweren\u2019t sure what role\u201d you had, and now you\u2019re claiming an inspection on Aiden. Explain that contradiction, and tell me exactly what your role is and when you got the result.\n\nAiden, respond directly: do you counter-claim anything, or are you just calling Lila a liar?\n\nFreya, my Day 1 Villager claim was just me being transparent, not a stalling tactic. I\u2019m fine moving fast if we have real info\u2014but Lila\u2019s info needs scrutiny first.\"\n>>> Arjun: \"Lila's seer claim smells fake\u2014your weird intro already had us all pinging you. Why claim now? Aiden, counterclaim? I'm town, my opener was just hype. Let's vote Lila today.\"\n>>> Freya: \"Wait - Lila just claimed to have inspected Aiden and found him to be a Werewolf. That's a Seer claim. But Lila, you said yesterday you weren't sure what role you had. That makes no sense. If you're the Seer, you would have known that from the start.\n\nThis feels like a desperate fake claim from Lila after everyone started questioning her strange Day 1 statement. A real Seer wouldn't have said they were unsure of their role.\n\nI think Lila is likely a Werewolf trying to deflect suspicion by making a false accusation against Aiden. We should vote for Lila today.\"\n>>> Luca: \"Lila, you said you inspected Aiden and he\u2019s a Werewolf. That\u2019s a big claim \u2014 can you back it up? We\u2019re all trying to find the wolves, but we need to be careful who we trust. If you\u2019re telling the truth, then Aiden is a threat. But if you\u2019re lying, you\u2019re trying to frame him. I\u2019m not sure who to believe yet. Let\u2019s hear from Aiden \u2014 what\u2019s your response?\"\n>>> Aiden: \"I am a Villager. Lila is clearly a Werewolf who panicked because her \"not sure what role I have\" comment made her the primary target. She's fake-claiming Seer to frame me and survive the day. If she were the real Seer, she wouldn't have lied about her role on Day 1. We must vote Lila.\"\n>>> Bob: \"Lila\u2019s explanation doesn\u2019t match her Day 1 words. \u201cWaiting to reveal\u201d is different from \u201cnot sure what role I have.\u201d That feels like a cover story after getting pressured.\n\nNo one else is counterclaiming Seer, but I still think the simplest answer is Lila faked a Seer claim to redirect heat. I\u2019m voting Lila today. If she flips Seer somehow, we pivot hard onto Aiden tomorrow.\"\n>>> Mira: \"Lila's Seer claim is trash\u2014your Day 1 lie doesn't add up. No real Seer says that. Vote Lila today.\"\n>>> Lila: \"I am the Seer. I did not know my role on Day 1 because I was waiting to see who was killed and who acted suspiciously. I inspected Aiden last night \u2014 he is a Werewolf. I\u2019m not lying. I\u2019m not the killer. I\u2019m telling the truth. Vote Aiden.\"\n>>> Kieran: \"Lila's claim is completely unbelievable. She went from \"not sure what role I have\" to claiming Seer only after she got caught in a lie. She's clearly a wolf trying to take Aiden down with her. I'm voting for Lila.\"\n>>> Nyla: \"I\u2019m voting Lila.  \n\nHer Day 1 \u201cnot sure what role I have\u201d doesn\u2019t match a real Seer, and the Seer claim only appeared once she got heat. Aiden\u2019s response is consistent, and nobody else is backing Lila with any concrete info.\"\n>>> Arjun: \"Lila's explanation is garbage\u2014you knew your role Day 1. Fake seer claim to deflect. No one's counterclaiming, but you're the liar. Vote Lila.\"\n>>> Freya: \"Lila's claim falls apart under scrutiny. A real Seer knows their role from the beginning - there's no \"waiting to see\" what your role is. Her Day 1 statement was a slip-up that revealed she's not a power role, and now she's making a desperate fake Seer claim to save herself.\n\nIf Lila were truly the Seer, she would have:\n1. Known her role on Day 1\n2. Been more careful with her words\n3. Not contradicted herself so obviously\n\nAiden has consistently denied being a Werewolf and called out Lila's lie. No one has counterclaimed Seer, but that doesn't validate Lila - it just means the real Seer (if alive) is staying hidden, which is smart.\n\nI'm voting for Lila. Her inconsistency is the clearest wolf tell we have.\"\n>>> Luca: \"Lila\u2019s story doesn\u2019t add up. She said she didn\u2019t know her role on Day 1, but now she\u2019s claiming to be the Seer with an inspection on Aiden. That\u2019s impossible \u2014 Seers know their role from the start. If she\u2019s telling the truth, she\u2019s lying about her Day 1 statement. If she\u2019s lying now, she\u2019s trying to frame Aiden. Either way, she\u2019s dangerous. I\u2019m not convinced by Aiden\u2019s counterclaim either \u2014 he\u2019s just denying it. But Lila\u2019s inconsistency is too big to ignore. I\u2019m voting Lila.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Luca votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Lila.\n\nThe town has eliminated Lila. They were a Seer.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Aiden chooses to kill Bob.\n \ud83d\udc89 Freya protects Aiden.\n\n\u2620\ufe0f Bob was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 3.\n\n>>> Aiden: \"I am shocked that Lila actually flipped Seer; her Day 1 comment was so confusing that I genuinely thought she was a wolf faking it. Now that we know she was telling the truth, I realize how bad this looks for me, but the wolves clearly used her mistake to frame me. They killed Bob because he was the one who suggested pivoting to me if Lila was telling the truth. We need to find the people who pushed the hardest for Lila's exit now that we know she was right.\"\n>>> Mira: \"We lynched the real Seer\u2014my bad, we all got it wrong. Lila's inspection on Aiden was legit: he's wolf. Vote him now.\"\n>>> Kieran: \"I am shocked. Lila actually was the Seer, which means Aiden is almost certainly a Werewolf. She gave us the answer and we ignored it because of her poor wording. We need to vote Aiden today to make this right.\"\n>>> Nyla: \"I messed up pushing Lila, and that\u2019s on me. She flipped Seer, so her result matters: Aiden is a Werewolf.  \n\nBob dying after leading the vote reads like wolves cleaning up. I want us to eliminate Aiden today.\"\n>>> Arjun: \"We killed the real Seer\u2014my bad, but Lila's read on Aiden was legit. He's wolf. Vote him now.\"\n>>> Freya: \"I was wrong. Lila was telling the truth - she was the Seer and Aiden is a Werewolf. I apologize to everyone for pushing so hard against her yesterday. Her Day 1 statement was confusing, but her inspection was real.\n\nBob is now dead, and we need to vote out Aiden immediately. Lila inspected him and found him to be a Werewolf. He's been lying this whole time, and we handed him a free pass by eliminating our Seer.\n\nAiden must be eliminated today. This isn't up for debate - we have a confirmed Seer result on him.\"\n>>> Luca: \"Bob is dead. That\u2019s a huge loss \u2014 he was one of the most logical and consistent players. He was also one of the first to claim Villager, which makes me wonder if the wolves are targeting the early, honest players. Lila was eliminated, and she was the Seer \u2014 so now we know the wolves killed Bob, not because he was suspicious, but because he was a threat. I\u2019m not sure who to trust now. Aiden, you were accused by Lila \u2014 do you still stand by your Villager claim? I\u2019m watching you, but I\u2019m also watching everyone else. Let\u2019s be careful \u2014 the wolves are still out there.\"\n>>> Aiden: \"I know it looks impossible to believe me, but think about the Night 1 kill. If I were a wolf, why would I kill Elio, who was logical, instead of Lila, who had already made herself a target? The real wolves let Lila live Day 2 because they knew her \"not sure what role\" comment would get her lynched. They are framing me using a dead Seer's confusing play. If you lynch me, you're just following the wolves' script. Look at Freya\u2014she pushed Lila the hardest and is now the loudest voice calling for my head.\"\n>>> Mira: \"Aiden, your defense is weak\u2014Lila's real, you're caught. Luca, her inspection was clear: vote Aiden today.\"\n>>> Kieran: \"Aiden, your defense is weak. Lila was the Seer and she found you. Bob said yesterday that if Lila flipped Seer, we pivot to you, and now Bob is dead. It\u2019s obvious the wolves are trying to silence the voices that would lead us to you. We have to follow the Seer's result.\"\n>>> Nyla: \"I want to keep this simple: Lila was Seer and she checked Aiden as Werewolf. That\u2019s as close to confirmed as we get.\n\nAiden\u2019s \u201cthey framed me\u201d doesn\u2019t track. Wolves can\u2019t force the Seer to see you as wolf.\n\nAfter we eliminate Aiden, I want us to re-check yesterday\u2019s biggest drivers on Lila, including me and Freya, but today the vote should be Aiden.\"\n>>> Arjun: \"Aiden's deflection is weak\u2014Seer nailed you. Luca, why hedge now? Vote Aiden.\"\n>>> Freya: \"Aiden, your response is manipulative. You're trying to deflect by saying the wolves \"framed\" you, but Lila's Seer inspection doesn't lie. You ARE a Werewolf - that's a mechanical result, not a frame job.\n\nYou're now trying to shift blame onto those of us who voted for Lila, but YOU were the one who pushed hardest for her elimination because you knew her result was real. You called her a liar repeatedly to save yourself.\n\nBob died because he was logical and said we'd pivot to you if Lila flipped Seer. The wolves killed him to remove a strong voice that would have led today's vote against you.\n\nEveryone - don't let Aiden manipulate us again. We have a confirmed Seer result. Aiden is a Werewolf and must be eliminated today.\"\n>>> Luca: \"We made a huge mistake yesterday. Lila was the Seer, and she told the truth \u2014 Aiden is a Werewolf. Bob\u2019s death confirms the wolves are targeting those who stood up for the truth. I\u2019m not sure how we let this happen, but we can\u2019t let it happen again. Aiden, you\u2019ve been lying from the start. You called Lila a liar when she was the only one with real info. Now we know the truth. I\u2019m voting Aiden \u2014 we have to fix this.\"\n>>> Aiden: \"If you lynch me, you are losing another Villager and handing the game to the real wolves. Lila's \"inspection\" was a lucky guess or a lie from a confused player that the wolves are now exploiting. Look at how quickly Freya and Mira pivoted to lead this mob\u2014they are the ones who benefited most from Lila's death and are now using her flip to clear themselves. I am a Villager. Don't make another mistake.\"\n>>> Mira: \"Aiden's excuses are desperate\u2014Seer result is ironclad. Vote him out now.\"\n>>> Kieran: \"Aiden, your argument that you're being \"framed\" makes no sense. A Seer's inspection is a direct reveal of your role, not a narrative the wolves can manipulate. You called her a liar to save yourself, and now the truth is out. Let's not overthink this\u2014the Seer found a wolf. I'm voting Aiden.\"\n>>> Nyla: \"Lila\u2019s Seer check is the game. Aiden is the wolf.\n\nAiden\u2019s story about Night 1 is just narrative\u2014wolves kill whoever they want, and they clearly benefited from us mislynching the Seer.\n\nAfter Aiden is gone, I\u2019m looking hardest at who tried to turn this into \u201cFreya did it\u201d instead of accepting the check.\"\n>>> Arjun: \"Aiden, wolves don't control Seer results. You're done\u2014vote you.\"\n>>> Freya: \"Aiden, your attempt to paint me as suspicious for \"pushing Lila hardest\" won't work. Yes, I made a mistake yesterday - we ALL did except those who might have known the truth (the wolves). But the difference is I'm owning it and correcting course based on the facts.\n\nThe facts are simple:\n- Lila was the Seer\n- She inspected you and found you to be a Werewolf\n- Seer inspections are mechanical truth, not opinion\n- Bob, who said we'd vote you if Lila flipped Seer, was killed immediately\n\nYou're grasping at straws trying to create doubt where none should exist. A Seer result is a Seer result. \n\nEveryone, vote Aiden. After he's eliminated, we can analyze who among us might be the remaining wolf, but today's vote is clear.\"\n>>> Luca: \"Aiden\u2019s defense is full of excuses. He\u2019s trying to shift blame onto Freya and others, but the Seer\u2019s result is clear \u2014 Lila inspected him and found him to be a Werewolf. Bob\u2019s death proves the wolves are targeting those who would expose them. I trusted Lila\u2019s claim after she was eliminated, and now I see she was telling the truth. Aiden has been lying from the start. I\u2019m voting Aiden \u2014 we can\u2019t let the wolves win.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Luca votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Freya.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Aiden.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Aiden.\n\nThe town has eliminated Aiden. They were a Werewolf.\n\n--- GAME OVER ---\nThe winner is: Villagers!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Freya:Freya",
+        "SEER_SEES:Lila:Aiden:Werewolf",
+        "KILLED:Elio:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Lila:Aiden",
+        "VOTE:Luca:Lila",
+        "VOTE:Nyla:Lila",
+        "VOTE:Bob:Lila",
+        "VOTE:Freya:Lila",
+        "VOTE:Aiden:Lila",
+        "VOTE:Kieran:Lila",
+        "VOTE:Mira:Lila",
+        "VOTE:Arjun:Lila",
+        "ELIMINATED:Lila:Seer",
+        "PHASE:2:NIGHT",
+        "MEDIC_PROTECTS:Freya:Aiden",
+        "KILLED:Bob:Villager",
+        "PHASE:3:DAY",
+        "VOTE:Luca:Aiden",
+        "VOTE:Kieran:Aiden",
+        "VOTE:Aiden:Freya",
+        "VOTE:Nyla:Aiden",
+        "VOTE:Freya:Aiden",
+        "VOTE:Mira:Aiden",
+        "VOTE:Arjun:Aiden",
+        "ELIMINATED:Aiden:Werewolf"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Werewolf",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Seer",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Medic",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
