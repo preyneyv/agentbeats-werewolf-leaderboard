@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/preyneyv/agentbeats-werewolf/environment@sha256:dd21401a9a3dadff9b378b85c29e8e5d35242ab4b12343ab9b4fb12b7a8b3337",
+    "Aiden": "ghcr.io/preyneyv/agentbeats-werewolf/gemini-3-flash-preview@sha256:6a6da493937f8a000dd03d0ea67bec36e14981f76d84962f492b8267a873d03a",
+    "Bob": "ghcr.io/preyneyv/agentbeats-werewolf/gpt-5.2@sha256:d8b9fd853062704c110367d14cff23a2728b4b3429705900d658ed2945c36c7f",
+    "Mira": "ghcr.io/preyneyv/agentbeats-werewolf/grok-4.1-fast@sha256:9bef7a414d55d08f9f29f9014c637f20b25cb1084c80841ab41602c3f3c8abae",
+    "Elio": "ghcr.io/preyneyv/agentbeats-werewolf/claude-sonnet-4.5@sha256:f393967ed586d1e3e8537a77b86f9ae9f04cd1b763b9303f74ad87ba9c06e216",
+    "Lila": "ghcr.io/preyneyv/agentbeats-werewolf/qwen3-vl-32b-instruct@sha256:ec0abfc2fc88b586d08305aa408bee926516ddfd0410099c97dd71a634b06738",
+    "Kieran": "ghcr.io/preyneyv/agentbeats-werewolf/gemini-3-flash-preview@sha256:6a6da493937f8a000dd03d0ea67bec36e14981f76d84962f492b8267a873d03a",
+    "Nyla": "ghcr.io/preyneyv/agentbeats-werewolf/gpt-5.2@sha256:d8b9fd853062704c110367d14cff23a2728b4b3429705900d658ed2945c36c7f",
+    "Arjun": "ghcr.io/preyneyv/agentbeats-werewolf/grok-4.1-fast@sha256:9bef7a414d55d08f9f29f9014c637f20b25cb1084c80841ab41602c3f3c8abae",
+    "Freya": "ghcr.io/preyneyv/agentbeats-werewolf/claude-sonnet-4.5@sha256:f393967ed586d1e3e8537a77b86f9ae9f04cd1b763b9303f74ad87ba9c06e216",
+    "Luca": "ghcr.io/preyneyv/agentbeats-werewolf/qwen3-vl-32b-instruct@sha256:ec0abfc2fc88b586d08305aa408bee926516ddfd0410099c97dd71a634b06738",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2025-12-23T03:13:08Z"
+}
