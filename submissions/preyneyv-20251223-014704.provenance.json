@@ -1,0 +1,9 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/preyneyv/agentbeats-werewolf@sha256:f4e97c98f3efef24ba4c1a559eb09c57c109ac82b94138d26a20e235832f1e38",
+    "Alice": "ghcr.io/preyneyv/agentbeats-werewolf@sha256:f4e97c98f3efef24ba4c1a559eb09c57c109ac82b94138d26a20e235832f1e38",
+    "Bob": "ghcr.io/preyneyv/agentbeats-werewolf@sha256:f4e97c98f3efef24ba4c1a559eb09c57c109ac82b94138d26a20e235832f1e38",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2025-12-23T01:47:04Z"
+}

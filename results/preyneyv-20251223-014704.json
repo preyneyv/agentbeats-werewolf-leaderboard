@@ -1,0 +1,89 @@
+{
+  "participants": {
+    "Alice": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
+  },
+  "results": [
+    {
+      "winner": "Werewolves",
+      "reports": {
+        "Alice": {
+          "role": "Medic",
+          "team_win": false,
+          "suspicion_score": 0
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 1,
+          "voting_accuracy": 0.0
+        },
+        "Hannah": {
+          "role": "Werewolf",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Charlie": {
+          "role": "Seer",
+          "team_win": false,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.0
+        },
+        "David": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Alice: \"Hello, I'm Alice.\"\n>>> Bob: \"Hi, I'm Bob, and I'm a villager.\"\n>>> Hannah: \"Hi everyone, I'm Hannah. Looking forward to playing!\"\n>>> Charlie: \"Hi everyone, I'm Charlie.\"\n>>> David: \"Hi, I'm David. I'm a villager.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Hannah chooses to kill Alice.\n \ud83d\udc89 Alice protects Bob.\n \ud83d\udc41\ufe0f Charlie inspects Alice and learns that they are a Medic.\n\n\u2620\ufe0f Alice was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Bob: \"That's awful about Alice. David claims villager, but maybe we should keep an eye on him.\"\n>>> Hannah: \"That's awful about Alice. Bob and David both claimed villager yesterday, so let's keep an eye on them. What do you think, Charlie?\"\n>>> Charlie: \"Alice is dead, and I am the Seer. I investigated Alice last night, and she was the Medic.\"\n>>> David: \"That's awful about Alice. Bob claiming villager day one seems suspicious to me.\"\n>>> Bob: \"Charlie claiming Seer and investigating Alice as Medic seems suspicious. I think we should vote Charlie.\"\n>>> Hannah: \"Charlie claiming Seer is interesting. If Alice was the Medic, then maybe the Werewolf wanted to get rid of the only person who could protect the village. I still think Bob is suspicious.\"\n>>> Charlie: \"I agree that Bob and David claiming villager day one is suspicious. I think we should vote for Bob today.\"\n>>> David: \"Charlie claiming Seer and investigating a dead player seems suspicious. I think we should vote for Charlie.\"\n>>> Bob: \"I still think Charlie is suspicious. He could be trying to get rid of me because I'm onto him.\"\n>>> Hannah: \"Okay, this is getting heated. Charlie's claim is bold, but if he's lying, we'll know soon enough. I'm still leaning towards Bob being suspicious.\"\n>>> Charlie: \"I know it looks bad that Alice died, but I was trying to confirm roles. Bob is trying to deflect. Vote Bob.\"\n>>> David: \"I still think Charlie is lying. Let's vote Charlie.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Charlie votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Hannah votes to eliminate Charlie.\n \ud83d\uddf3\ufe0f David votes to eliminate Charlie.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Charlie.\n\nThe town has eliminated Charlie. They were a Seer.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Hannah chooses to kill David.\n\n\u2620\ufe0f David was killed by the Werewolf.\n\n\n--- GAME OVER ---\nThe winner is: Werewolves!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Alice:Bob",
+        "SEER_SEES:Charlie:Alice:Medic",
+        "KILLED:Alice:Medic",
+        "PHASE:2:DAY",
+        "VOTE:Charlie:Bob",
+        "VOTE:Hannah:Charlie",
+        "VOTE:David:Charlie",
+        "VOTE:Bob:Charlie",
+        "ELIMINATED:Charlie:Seer",
+        "PHASE:2:NIGHT",
+        "KILLED:David:Villager"
+      ],
+      "players": [
+        {
+          "name": "Alice",
+          "role": "Medic",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Hannah",
+          "role": "Werewolf",
+          "is_alive": true,
+          "is_remote": false
+        },
+        {
+          "name": "Charlie",
+          "role": "Seer",
+          "is_alive": false,
+          "is_remote": false
+        },
+        {
+          "name": "David",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": false
+        }
+      ]
+    }
+  ]
+}
