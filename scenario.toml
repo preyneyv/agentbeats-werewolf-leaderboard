@@ -5,7 +5,7 @@ env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}", LOG_LEVEL = "INFO" }
 [[participants]]
 agentbeats_id = "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
 name = "Alice"
-env = { ROLE = "white", OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}", AGENT_MODEL = "openai/gpt-5.2" }
+env = { ROLE = "white", OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [[participants]]
 agentbeats_id = "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
