@@ -1,0 +1,191 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Werewolves",
+      "reports": {
+        "Aiden": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Mira": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Elio": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0
+        },
+        "Lila": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 5,
+          "voting_accuracy": 0.0
+        },
+        "Kieran": {
+          "role": "Seer",
+          "team_win": false,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.0
+        },
+        "Nyla": {
+          "role": "Werewolf",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Arjun": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 4,
+          "voting_accuracy": 0.0
+        },
+        "Freya": {
+          "role": "Medic",
+          "team_win": false,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.0
+        },
+        "Luca": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 9,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"I'm Aiden. I'm a Villager, and I'm ready to work with everyone to find the wolves. Let's keep a close eye on the discussions today.\"\n>>> Bob: \"I\u2019m Bob. I\u2019m a villager, and I\u2019m here to keep things calm, ask clear questions, and vote based on what people say today.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014let's find the wolves!\"\n>>> Elio: \"Hello everyone, I'm Elio. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing my observations. Let's work together and think logically about everyone's behavior. Good luck to all the innocent villagers!\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m just a regular Villager trying to survive and help find the Werewolves. Let\u2019s work together and stay safe!\"\n>>> Kieran: \"Hi, I'm Kieran. I'm looking forward to working with everyone to find the wolves and keep the village safe.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019ll keep an eye on how everyone talks and votes today, and I want us to avoid rushing into a sloppy lynch.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to start\u2014let's lynch some wolves!\"\n>>> Freya: \"Hello everyone, I'm Freya. This is my first day meeting you all, and I'm eager to work together to find the werewolves among us. I'll be watching carefully and listening to what everyone has to say. Let's stay logical and help the village win this.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m just a regular Villager trying to survive and help find the Werewolves. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Nyla chooses to kill Elio.\n \ud83d\udc89 Freya protects Freya.\n \ud83d\udc41\ufe0f Kieran inspects Elio and learns that they are a Villager.\n\n\u2620\ufe0f Elio was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Aiden: \"Rest in peace, Elio. It's suspicious that Luca used the exact same introduction as Lila yesterday. Copying someone else's words feels like a wolf trying too hard to blend in. Luca, what do you have to say for yourself?\"\n>>> Bob: \"I\u2019m sorry Elio\u2019s gone.\n\nDay 1 was mostly fluff, but a couple things stood out: Lila and Luca gave basically the same \u201cregular Villager\u201d line, and Arjun came in with \u201clet\u2019s lynch some wolves\u201d energy. Neither is proof, but those are my early pings.\n\nBefore we rush a vote, I want everyone to give one clear suspicion and why\u2014based on wording, tone, or any inconsistency.\"\n>>> Mira: \"Sad about Elio\u2014his logical vibe was solid. Lila and Luca, your intros are identical word-for-word. Wolves copying? Thoughts?\"\n>>> Lila: \"Elio is gone. That\u2019s a big loss. I\u2019m really sad to see him go, but I know we need to stay focused. I\u2019m a Villager, and I\u2019m here to help find the wolves. I didn\u2019t see anything suspicious last night, but I\u2019ll be watching closely today. Let\u2019s not jump to conclusions, but also don\u2019t ignore red flags. I think we should look at who might have had a reason to act suspiciously or who\u2019s been too eager to lynch. Arjun, you were pretty quick to say \u201clet\u2019s lynch some wolves\u201d \u2014 maybe that\u2019s a bit too eager? Just a thought. Let\u2019s talk it out and vote wisely.\"\n>>> Kieran: \"It's a shame we lost Elio; he seemed ready to help the village. I'm still observing everyone's patterns, but I think we should look closely at those who were most eager to lead the conversation yesterday.\"\n>>> Nyla: \"I don\u2019t like that Lila and Luca gave basically the same intro yesterday. That kind of mirroring feels coordinated, so I want to start pressure on Luca and see how he explains it.\"\n>>> Arjun: \"Elio's death is rough. His intro sounded a lot like Freya's\u2014too polished. What do you all think?\"\n>>> Freya: \"I'm sorry to hear Elio was killed. He seemed genuinely helpful yesterday. \n\nI find it interesting that Lila and Luca had nearly identical opening statements - \"I'm just a regular Villager trying to survive and help find the Werewolves. Let's work together and stay safe.\" That's suspicious coordination. Werewolves often use similar scripted language. I'd like to hear from both of them about why their introductions were so similar.\"\n>>> Luca: \"Elio is gone. That\u2019s a big loss. I\u2019m still a Villager, and I\u2019m here to help find the wolves. I didn\u2019t see anything last night, but I\u2019ll watch closely today. I think we should look at who\u2019s acting suspicious or too eager to lynch. Arjun, you said you\u2019re excited to lynch\u2014maybe that\u2019s a bit too quick? We need to be careful. Let\u2019s talk about behavior, not just accusations.\"\n>>> Aiden: \"Luca, you just did it again. You almost entirely copied Lila's second statement word-for-word, just like you did with the first. This isn't a coincidence anymore; it's a pattern of mimicking a villager to hide. I'm voting for Luca.\"\n>>> Bob: \"I\u2019m more suspicious of Luca than Lila right now.\n\nLila\u2019s post sounds like her own voice. Luca\u2019s Day 1 intro matched Lila word-for-word, and his Day 2 response basically follows Lila\u2019s structure and even repeats the same Arjun poke. That feels like mirroring to blend in.\n\nLuca: why are your statements so similar to Lila\u2019s twice in a row? Give me your top suspect that isn\u2019t Arjun, and a real reason.\"\n>>> Mira: \"Lila and Luca, your Day 2 posts are mirroring again\u2014same opener, same deflection to Arjun. That's not villager randomness. Explain the copy-paste.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Luca and I both said similar things because we\u2019re both trying to be honest and straightforward. That doesn\u2019t make us wolves. Arjun was the one who said \u201clet\u2019s lynch some wolves\u201d \u2014 that\u2019s the kind of eagerness that worries me. He\u2019s the one who\u2019s pushing for action before we even know who to target. I\u2019m not accusing anyone, but I think we should look at behavior, not just word-for-word matches. Let\u2019s keep our heads clear and vote based on logic, not fear.\"\n>>> Kieran: \"The mirroring between Lila and Luca is definitely strange, but I'm also noticing how Luca just copied Lila's second statement almost word-for-word again. That's not just a coincidence anymore; it looks like a wolf trying to hide behind someone else's logic.\"\n>>> Nyla: \"Luca\u2019s response is basically Lila\u2019s speech with a couple words swapped, and both of them push Arjun the same way. That looks like coordination more than coincidence. I\u2019m still leaning Luca first, with Lila as the close second.\"\n>>> Arjun: \"Lila and Luca, your Day 2 statements are copy-pasted too\u2014same \"big loss,\" same pushback on my energy. That's wolfy coordination. I'm voting Luca.\"\n>>> Freya: \"Luca just did it AGAIN - his statement is almost word-for-word identical to Lila's, just slightly reworded. \"Elio is gone. That's a big loss\" opening, mentioning Arjun being \"too eager to lynch,\" asking to \"talk it out\" or \"be careful.\" This is beyond coincidence.\n\nAlso notice how both Lila and Luca are deflecting to Arjun instead of addressing why their statements match. Arjun's enthusiasm seems genuine for someone new to the game, but this coordinated messaging from Lila and Luca screams werewolf team communication.\n\nI'm voting for Luca. The pattern is too clear to ignore.\"\n>>> Luca: \"I didn\u2019t copy Lila. I said what I meant\u2014simple, honest. I\u2019m not a wolf. I\u2019m just a Villager trying to survive. If you\u2019re going to accuse me, at least give me a chance to explain. I didn\u2019t see anything last night, and I\u2019m not trying to hide anything. Let\u2019s not rush to vote based on copy-paste lines. Look at behavior, not just words. Arjun was the one who said \u201clet\u2019s lynch some wolves\u201d first\u2014maybe that\u2019s the real red flag.\"\n>>> Aiden: \"Luca, your defense is just more of the same. You claim to be honest, yet you continue to mirror Lila's points and her deflection toward Arjun. It looks like you're afraid to provide your own original thoughts. I'm sticking with my vote for Luca.\"\n>>> Bob: \"I\u2019m locking in on Luca.\n\nTwice he matched Lila\u2019s wording and structure, then when pressed he still dodges the core question and falls back to \u201clook at Arjun.\u201d If he\u2019s a villager, he should be able to give a clean, original read list and explain the mirroring without deflecting.\n\nMy vote is going to Luca.\"\n>>> Mira: \"Luca's excuses are as copied as his statements. Deflecting to Arjun again? Vote Luca\u2014clear the pack animal.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m not a wolf. I said what I meant \u2014 I didn\u2019t copy anyone. Luca and I both said similar things because we\u2019re both trying to be honest and straightforward. That doesn\u2019t make us wolves. Arjun was the one who said \u201clet\u2019s lynch some wolves\u201d \u2014 that\u2019s the kind of eagerness that worries me. I\u2019m not accusing anyone, but I think we should look at behavior, not just word-for-word matches. Let\u2019s keep our heads clear and vote based on logic, not fear.\"\n>>> Kieran: \"Luca's repeated mirroring of Lila is too consistent to be accidental. Even his defense is just a rehash of his previous points without adding anything new. It looks like a wolf who is afraid to speak for himself. I'm voting for Luca.\"\n>>> Nyla: \"Luca keeps repeating the same script and dodging the actual question. If he\u2019s a villager, he should be able to give a clear suspect and reasoning without copying Lila or defaulting to Arjun. I\u2019m ready to vote Luca.\"\n>>> Arjun: \"Luca's denial is weak\u2014still echoing Lila's phrasing. Her deflection to me is transparent. Sticking with my vote: Luca.\"\n>>> Freya: \"Luca, you keep saying \"I didn't copy\" but the evidence is right there for everyone to see. Three times now your statements have mirrored Lila's structure and content. You're deflecting to Arjun again instead of giving a real explanation.\n\nThe werewolves clearly coordinated their messaging, and you've exposed yourself by repeating the same pattern over and over. Even now, you're using the same defensive language as Lila - \"I'm just a Villager trying to survive.\"\n\nMy vote is Luca. The coordination is undeniable.\"\n>>> Luca: \"I\u2019m not a wolf. I\u2019m Luca, a Villager. I didn\u2019t copy Lila. I said what I felt. If you\u2019re going to vote me, fine. But don\u2019t pretend you\u2019re voting for logic when you\u2019re voting for copy-paste. I\u2019m not the only one who said \u201clet\u2019s be careful\u201d or \u201cdon\u2019t rush.\u201d That\u2019s what villagers say. I\u2019m not hiding. I\u2019m just trying to survive. I\u2019m not the wolf. I\u2019m not the wolf. I\u2019m not the wolf.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Luca votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Lila votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Luca.\n\nThe town has eliminated Luca. They were a Villager.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Nyla chooses to kill Bob.\n \ud83d\udc89 Freya protects Aiden.\n \ud83d\udc41\ufe0f Kieran inspects Lila and learns that they are a Villager.\n\n\u2620\ufe0f Bob was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 3.\n\n>>> Aiden: \"Luca was a Villager, which means the mirroring wasn't a wolf strategy, but Lila is still here and she was the one Luca was copying. If Luca was innocent, Lila's identical behavior is still a massive red flag. We also lost Bob, who was leading the charge against Luca. I want to hear from Lila\u2014why were you and Luca so perfectly synced if you aren't a wolf?\"\n>>> Mira: \"RIP Luca and Bob. Lila, your last two statements are identical word-for-word\u2014deflecting Arjun on repeat. Wolf looping? Explain.\"\n>>> Lila: \"Bob is gone. That\u2019s a huge loss \u2014 he was calm, logical, and asking the right questions. I\u2019m still Lila, a Villager, and I\u2019m here to help find the wolves. I didn\u2019t see anything last night, but I\u2019m watching closely. Luca was eliminated, and he was innocent \u2014 that means the wolves are still out there, and they\u2019re getting bolder. I think we need to be careful who we trust now. Arjun was the one who kept pushing for lynch, and he\u2019s still here. Maybe that\u2019s a red flag? I\u2019m not accusing anyone yet, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Kieran: \"Losing Bob is a blow to the village. I've been looking into Lila because of the mirroring with Luca, and I can tell you all that she is a Villager. We need to stop looking at her and focus on those who pushed the Luca lynch the hardest without questioning the logic.\"\n>>> Nyla: \"Bob being gone worries me because he was the one asking for clean, original reads.\n\nWith Luca flipping Villager, the big question is: was the mirroring with Lila wolf-team coordination, or just two villagers talking similarly? I still want to pressure Lila today, because her content has been a lot of \u201cbe careful\u201d plus pushing Arjun.\n\nMy other ping is Freya for confidently driving the Luca wagon; I want to hear her explain what she thinks now that Luca\u2019s green.\"\n>>> Arjun: \"Bob's loss hurts\u2014he was sharp on the mirroring. Luca was innocent, but Lila's phrasing still screams wolf buddy. She's deflected to me every time. Who's with me on her?\"\n>>> Freya: \"We made a mistake - Luca was a Villager. I'm sorry for pushing that vote so hard. The mirroring was suspicious, but clearly it wasn't coordination between wolves.\n\nBob is gone now, which is a significant loss. He was asking good questions and thinking logically.\n\nThis means Lila is likely a Villager too, since the mirroring wasn't wolf coordination. We need to look elsewhere.\n\nI'm now most suspicious of Arjun. He was very quick to jump on the Luca bandwagon, and his initial \"let's lynch some wolves\" energy felt performative. He also tried to deflect suspicion onto me yesterday, saying my intro was \"too polished\" like Elio's - that feels like a wolf trying to create confusion.\n\nWhat are everyone's thoughts?\"\n>>> Aiden: \"Kieran, you just claimed to \"tell us all\" that Lila is a Villager. That sounds like a Seer claim. If you are the Seer, we should listen, but if not, that's a very dangerous thing to say. Lila, your response to Bob's death is almost identical to your response to Elio's. You're still deflecting to Arjun. I'm looking at Arjun and Freya now too, but Lila's repetitive script is still bothering me.\"\n>>> Mira: \"Kieran, Seer reveal on Lila? If true, great\u2014town cleared. Lila, why still looping Arjun deflection post-Luca town? Freya/Arjun, your flips feel convenient. Top reads?\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. I didn\u2019t copy Luca \u2014 we both said what we meant. I\u2019m not a wolf. Bob\u2019s death is a huge loss \u2014 he was one of the smartest here. I\u2019m not deflecting \u2014 I\u2019m just trying to be honest. Arjun was the one who said \u201clet\u2019s lynch some wolves\u201d first, and he\u2019s still pushing for lynch now. That\u2019s the real red flag. Freya, you\u2019re right \u2014 we made a mistake with Luca. But now we need to be careful who we trust. I\u2019m not the wolf. I\u2019m just trying to survive. Let\u2019s look at behavior, not just words.\"\n>>> Kieran: \"I am the Seer, and I have used my nights to clear both Elio and Lila. Since Lila is a confirmed Villager, the mirroring was just a distraction. We need to look at those who are still pushing the same tired arguments. Arjun has been aggressive from the start and is still trying to target Lila despite the evidence. I think we should look at him.\"\n>>> Nyla: \"Kieran, \u201cI can tell you Lila is a Villager\u201d is a huge claim. If you\u2019re claiming Seer, say who you checked Night 1 and Night 2 and why you waited until now.\n\nUntil that\u2019s answered, I\u2019m not letting Lila get auto-cleared. Also, Arjun tunneling Lila again after Luca flipped feels like he\u2019s forcing a mislynch.\"\n>>> Arjun: \"Kieran's Lila-clear feels too convenient\u2014proof? Lila's still looping the same deflection to me. Freya's pivot to me post-mistake? Sketchy. Sticking on Lila.\"\n>>> Freya: \"Kieran just claimed to have investigated Lila and confirmed she's a Villager. That's a Seer claim. If Kieran is telling the truth, that's huge information and we should trust it.\n\nHowever, I'm concerned about Kieran's timing - why reveal this now instead of earlier when Lila was under pressure? \n\nNyla, I understand your suspicion of me. I was wrong about Luca, and I own that. The mirroring pattern seemed like clear coordination, but I misread it.\n\nNow I'm looking at who's been deflecting and creating confusion. Arjun keeps pushing Lila even after Kieran's claim, which feels like a wolf trying to eliminate a confirmed Villager. And Arjun has consistently deflected attention - first onto me, now stubbornly onto Lila.\n\nKieran, can you confirm you're claiming Seer? And if so, who did you investigate Night 1?\"\n>>> Aiden: \"Kieran, if you're the Seer, you need to be clear. You said you checked Elio and Lila, but Elio was killed Night 1. Why check someone who was already dead, or did you check him before he died? Arjun, your refusal to move off Lila even after a Seer claim is very suspicious. I'm leaning toward Arjun today for pushing a potentially cleared villager.\"\n>>> Mira: \"Kieran, Night 1 target? Elio clear makes sense, but late Lila claim after wagon smells fake. Lila's script repeats forever\u2014still no good Arjun reason. Skeptical on Kieran/Lila.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Kieran just confirmed I\u2019m innocent, and I\u2019m grateful. Bob\u2019s death is a huge loss \u2014 he was one of the smartest here. I\u2019m not deflecting \u2014 I\u2019m just trying to be honest. Arjun was the one who said \u201clet\u2019s lynch some wolves\u201d first, and he\u2019s still pushing for lynch now. That\u2019s the real red flag. Freya, you\u2019re right \u2014 we made a mistake with Luca. But now we need to be careful who we trust. I\u2019m not the wolf. I\u2019m just trying to survive. Let\u2019s look at behavior, not just words.\"\n>>> Kieran: \"I am the Seer. Night 1, I checked Elio; he was a Villager and was killed. Night 2, I checked Lila; she is also a Villager. I waited to reveal until I had a living clear to protect. Arjun is ignoring my claim to keep tunneling a confirmed Villager, which is classic wolf behavior. Vote Arjun.\"\n>>> Nyla: \"Kieran\u2019s Seer claim doesn\u2019t add up to me. Clearing Elio after he died Night 1 is convenient, and waiting until Day 3 to \u201cconfirm\u201d Lila feels like a save attempt. I want Kieran out today.\"\n>>> Arjun: \"Kieran's Seer claim smells fake\u2014conveniently clears his partner Lila after pressure, and Elio's an easy dead townie confirm. No specifics on checks. Lila still looping me. Voting Kieran.\"\n>>> Freya: \"Kieran claims he investigated Elio Night 1 and Lila Night 2. But Elio is dead, so we can't verify that claim. This is convenient - he's claiming to have cleared someone who can't contradict him.\n\nIf Kieran is the real Seer, this is valuable. But if he's a wolf, he's trying to protect his teammate Lila by fake-claiming Seer.\n\nHere's what I see: Arjun is stubbornly tunneling on Lila despite a Seer claim. That's either a wolf trying to eliminate a cleared Villager, OR a Villager who doesn't believe Kieran's claim.\n\nLila continues the same repetitive pattern - \"I'm a Villager,\" deflecting to Arjun, \"let's be careful.\"\n\nBut the most suspicious to me is Arjun. He's been deflecting since Day 1, pushed the Luca wagon hard, and now won't accept Kieran's information. His aggressive \"let's lynch\" energy from the start feels like a wolf trying to appear enthusiastic.\n\nI'm voting Arjun.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Kieran.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Kieran.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Kieran.\n\nThe town has eliminated Arjun. They were a Villager.\n--------------------\nThe sun sets as we enter Night 3.\n\n \ud83d\udc3a Nyla chooses to kill Kieran.\n \ud83d\udc89 Freya protects Aiden.\n \ud83d\udc41\ufe0f Kieran inspects Freya and learns that they are a Medic.\n\n\u2620\ufe0f Kieran was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 4.\n\n>>> Aiden: \"Kieran was the Seer, which means Lila is confirmed innocent. That leaves Mira, Nyla, and Freya. Freya pushed the Luca wagon hard and then pivoted to Arjun, both of whom were villagers. Nyla has been skeptical of every lead but hasn't offered much herself. Freya, your \"mistakes\" are starting to look like a calculated way to thin the village.\"\n>>> Mira: \"Kieran's kill post-Seer claim screams real\u2014Lila town? But her script's unchanged: \"huge loss,\" Arjun loop. Freya/Aiden tunneled Arjun hard. Explain reads now.\"\n>>> Lila: \"Kieran is gone. That\u2019s a huge loss \u2014 he was the Seer, and now we\u2019re left in the dark. I\u2019m Lila, a Villager, and I\u2019m still here. I didn\u2019t see anything last night, but I\u2019m watching closely. Kieran cleared me, and now he\u2019s dead \u2014 that means the wolves are still out there, and they\u2019re getting bolder. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Freya, you were the one who questioned Kieran\u2019s timing \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"Kieran dying after claiming Seer makes me think his claim was real, which likely clears Lila.\n\nThat leaves me looking hard at Freya: she drove the Luca push, then pivoted to Arjun, and both were villagers. I want to vote Freya today.\"\n>>> Freya: \"Kieran is dead. If he was the real Seer, the wolves killed him to silence him. If he was a fake Seer (a wolf), then his teammates killed him to make his claim look legitimate and protect Lila.\n\nI've been wrong twice now - Luca and Arjun were both Villagers. I need to reassess everything.\n\nWe've lost: Elio, Bob, Luca, Arjun, and Kieran - all Villagers.\n\nRemaining players: Me, Aiden, Mira, Lila, Nyla.\n\nLooking back, Lila has been using the exact same scripted language every single day. Even after Kieran's \"clear,\" her Day 3 statement was nearly identical to Day 2. That's not normal Villager behavior - that's someone sticking to a safe script.\n\nNyla was suspicious of Kieran's claim and wanted him eliminated. If Kieran was a real Seer, that makes Nyla look very bad.\n\nI'm most suspicious of Lila and Nyla right now. The wolves have been playing us perfectly, and I think they're among these two.\"\n>>> Aiden: \"Freya, you've led the charge on two consecutive mislynches and now you're trying to cast doubt on a Seer-cleared villager. Kieran was killed by wolves because he was the Seer, which makes Lila 100% town. Your attempt to suggest the wolves killed their own teammate to \"protect\" Lila is a desperate reach. I'm voting for Freya.\"\n>>> Mira: \"Freya nails it: Lila's posts are copy-pasted across days\u2014\"huge loss,\" \"Villager,\" \"behavior not words.\" Cleared townies evolve. Lila's stuck. Top wolf suspect.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Kieran was the Seer, and he cleared me. Now he\u2019s dead \u2014 that means the wolves are still out there, and they\u2019re getting bolder. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Freya, you were the one who questioned Kieran\u2019s timing \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"If Kieran was real Seer, then Lila\u2019s cleared and Freya\u2019s trying to reopen that slot anyway. She\u2019s been on every mislynch and now she\u2019s shading me to dodge accountability. I\u2019m staying on Freya.\"\n>>> Freya: \"I understand why I look suspicious - I've been wrong twice. But let me be clear about my thinking:\n\nDay 2: The Lila/Luca mirroring looked like wolf coordination. I was wrong, but my reasoning was sound.\n\nDay 3: Arjun was aggressively tunneling and deflecting from Day 1. I thought he was a wolf trying to push mislynches.\n\nNow look at what's happening: Lila is STILL using the exact same script. \"That's a huge loss,\" \"I'm watching closely,\" \"I'm not a wolf, I'm just trying to survive,\" \"Let's be careful who we trust.\"\n\nAiden, you're taking Kieran's claim as absolute truth, but what if Kieran was a wolf protecting his partner Lila? Wolves killing him makes the claim look real.\n\nNyla pushed to eliminate Kieran yesterday, which would make sense if she's a wolf and Kieran was the real Seer. But now she's using his death to \"clear\" Lila and push me.\n\nBetween Lila's robotic repetition and Nyla's convenient flip on Kieran's credibility, I think one of them is the wolf. My gut says Lila - the script is too consistent to be genuine.\"\n>>> Aiden: \"Lila is confirmed town by Kieran, who was killed by wolves for being the Seer. Freya, your theory that wolves killed their own to clear Lila is a classic wolf distraction. You've pushed every single villager lynch so far. Nyla and I are right\u2014it's time to hold you accountable for the trail of dead villagers you've left behind. I'm voting Freya.\"\n>>> Mira: \"Lila's Day 4 post = Day 3/2 copy-paste. \"Huge loss,\" \"Villager,\" \"behavior not words.\" Town evolves; wolves loop. Cleared or not, she's wolfy. Vote Lila.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Kieran was the Seer, and he cleared me. Now he\u2019s dead \u2014 that means the wolves are still out there, and they\u2019re getting bolder. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Freya, you were the one who questioned Kieran\u2019s timing \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"Freya\u2019s \u201cKieran was a wolf\u201d theory is pure convenience to keep Lila on the table. I think wolves kill the real Seer, and Kieran died right after the claim. I\u2019m voting Freya.\"\n>>> Freya: \"Look at Lila's statement right now - it's the SAME SCRIPT again. \"I'm Lila, and I'm a Villager. I didn't copy anyone \u2014 I said what I meant.\" \"I'm not a wolf. I'm just trying to survive.\" \"Let's be careful who we trust.\" \"Let's talk about behavior, not just words.\"\n\nShe's been saying these exact phrases since Day 1. No real Villager talks like this - repeating the same defensive script over and over.\n\nMira sees it too - Lila's posts are copy-pasted across days while real townies evolve their thinking.\n\nAiden and Nyla are both pushing me hard and treating Kieran's claim as absolute proof. But if Kieran was a wolf, this is exactly how it would play out - wolves kill their fake Seer to legitimize the claim and protect their partner.\n\nI've made mistakes, yes. But I've been trying to find wolves based on behavior patterns. Lila's robotic repetition is the clearest pattern we have.\n\nI'm voting Lila.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Freya.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Freya.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Freya.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Lila.\n\nThe town has eliminated Freya. They were a Medic.\n--------------------\nThe sun sets as we enter Night 4.\n\n \ud83d\udc3a Nyla chooses to kill Aiden.\n\n\u2620\ufe0f Aiden was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 5.\n\n>>> Mira: \"RIP Aiden\u2014town killer? Lila's script: same denial loop forever. Nyla, solid Freya push. Lila, evolve or out.\"\n>>> Lila: \"Aiden is gone. That\u2019s a huge loss \u2014 he was one of the smartest here. I\u2019m Lila, a Villager, and I\u2019m still here. I didn\u2019t see anything last night, but I\u2019m watching closely. Freya was eliminated, and she was a Medic \u2014 that means the wolves are still out there, and they\u2019re getting bolder. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Mira and Nyla, you were both suspicious of Freya \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"We\u2019re at three players, so we can\u2019t afford another mistake.\n\nLila has posted the same defensive script every day, even after \u201cbeing cleared.\u201d I still don\u2019t trust Kieran\u2019s late Seer claim, and him dying doesn\u2019t prove it was real.\n\nMira, you\u2019ve been calling out Lila\u2019s looping the whole game. I\u2019m voting Lila today.\"\n>>> Mira: \"Nyla, agree\u2014Lila's script identical again: \"huge loss,\" \"Villager,\" \"behavior not words.\" Wolves don't evolve. Hammer Lila.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Aiden is gone \u2014 that\u2019s a huge loss. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Mira and Nyla, you were both suspicious of Freya \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"Lila, this is exactly what I mean: same \u201chuge loss / I\u2019m watching closely / I\u2019m not a wolf / be careful\u201d loop, and still no real reads.\n\nMira, if we vote wrong we lose. Lila\u2019s the only one who hasn\u2019t shown any real thought all game. I\u2019m locked on Lila.\"\n>>> Mira: \"Lila's post: identical script remix. No evolution, no reads. Nyla's right\u2014lock Lila.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m a Villager. I didn\u2019t copy anyone \u2014 I said what I meant. Aiden is gone \u2014 that\u2019s a huge loss. I\u2019m not a wolf. I\u2019m just trying to survive. Let\u2019s be careful who we trust now. Mira and Nyla, you were both suspicious of Freya \u2014 maybe you were right? I\u2019m not accusing anyone, but I\u2019m keeping my eyes open. Let\u2019s talk about behavior, not just words. We need to be smart.\"\n>>> Nyla: \"Lila, you\u2019re still not answering anything\u2014just repeating the same lines. Mira and I are aligned here. I\u2019m voting Lila.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Lila.\n\nThe town has eliminated Lila. They were a Villager.\n\n--- GAME OVER ---\nThe winner is: Werewolves!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Freya:Freya",
+        "SEER_SEES:Kieran:Elio:Villager",
+        "KILLED:Elio:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Luca:Luca",
+        "VOTE:Lila:Luca",
+        "VOTE:Nyla:Luca",
+        "VOTE:Aiden:Luca",
+        "VOTE:Bob:Luca",
+        "VOTE:Kieran:Luca",
+        "VOTE:Freya:Luca",
+        "VOTE:Mira:Luca",
+        "VOTE:Arjun:Luca",
+        "ELIMINATED:Luca:Villager",
+        "PHASE:2:NIGHT",
+        "MEDIC_PROTECTS:Freya:Aiden",
+        "SEER_SEES:Kieran:Lila:Villager",
+        "KILLED:Bob:Villager",
+        "PHASE:3:DAY",
+        "VOTE:Lila:Arjun",
+        "VOTE:Nyla:Kieran",
+        "VOTE:Freya:Arjun",
+        "VOTE:Aiden:Arjun",
+        "VOTE:Kieran:Arjun",
+        "VOTE:Arjun:Kieran",
+        "VOTE:Mira:Kieran",
+        "ELIMINATED:Arjun:Villager",
+        "PHASE:3:NIGHT",
+        "MEDIC_PROTECTS:Freya:Aiden",
+        "SEER_SEES:Kieran:Freya:Medic",
+        "KILLED:Kieran:Seer",
+        "PHASE:4:DAY",
+        "VOTE:Lila:Freya",
+        "VOTE:Aiden:Freya",
+        "VOTE:Nyla:Freya",
+        "VOTE:Freya:Lila",
+        "VOTE:Mira:Lila",
+        "ELIMINATED:Freya:Medic",
+        "PHASE:4:NIGHT",
+        "KILLED:Aiden:Villager",
+        "PHASE:5:DAY",
+        "VOTE:Lila:Lila",
+        "VOTE:Nyla:Lila",
+        "VOTE:Mira:Lila",
+        "ELIMINATED:Lila:Villager"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Seer",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Werewolf",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Medic",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
