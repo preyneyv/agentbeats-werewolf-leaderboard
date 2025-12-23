@@ -1,0 +1,187 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Villagers",
+      "reports": {
+        "Aiden": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Bob": {
+          "role": "Werewolf",
+          "team_win": false,
+          "suspicion_score": 7
+        },
+        "Mira": {
+          "role": "Seer",
+          "team_win": true,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Elio": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 7,
+          "voting_accuracy": 0.5
+        },
+        "Lila": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Kieran": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Nyla": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Arjun": {
+          "role": "Medic",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Freya": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.3333333333333333
+        },
+        "Luca": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 7,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"Hi, I'm Aiden. I'm a Villager and I'm ready to work with everyone to find the wolves. Let's keep a close eye on the voting patterns today.\"\n>>> Bob: \"I\u2019m Bob. I\u2019ll keep it simple today: I\u2019m here to listen closely, ask a few direct questions, and vote based on who feels inconsistent.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014may the villagers win!\"\n>>> Elio: \"Hello everyone, I'm Elio. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing my observations. Let's work together and think logically about everyone's behavior. Good luck to all the innocent villagers!\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m just a regular Villager trying to survive and help find the Werewolves. Let\u2019s work together and stay safe!\"\n>>> Kieran: \"Hi, I'm Kieran. I'm a Villager and I'm ready to work with you all to find the wolves. Let's keep a close eye on everyone's claims today.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019m here to listen closely, ask clear questions, and vote based on what people say and do.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to play\u2014let's sniff out the wolves!\"\n>>> Freya: \"Hello everyone, I'm Freya. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing what I observe. Let's work together to root out the threats among us.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m just a regular Villager trying to survive and help find the Werewolves. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Bob chooses to kill Aiden.\n \ud83d\udc89 Arjun protects Mira.\n \ud83d\udc41\ufe0f Mira inspects Lila and learns that they are a Villager.\n\n\u2620\ufe0f Aiden was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Bob: \"I don\u2019t like how scripted some intros felt. Lila and Luca sounded almost identical, and Elio and Freya had the same \u201clogic/innocent villagers\u201d pitch. I want to start by pressing those pairs for something concrete today\u2014who do you suspect right now, and why?\"\n>>> Mira: \"Sad to see Aiden go. Lila is cleared\u2014I'm the Seer, checked her last night. Notice Elio and Freya's intros are near identical? Sketchy.\"\n>>> Elio: \"I'm sorry to see Aiden gone - he seemed genuinely helpful on Day 1. I notice that Lila and Luca used almost identical introductions, which strikes me as odd. Also, Freya's opening was very similar to mine. I'm not sure if this means anything yet, but I want to point out these patterns. What does everyone else think about the night kill?\"\n>>> Lila: \"Aiden is gone. That\u2019s a big loss for us. I\u2019m Lila, a Villager, and I\u2019m here to help find the wolves. I didn\u2019t see anything last night, but I\u2019ll keep my eyes open. Let\u2019s think carefully\u2014someone\u2019s lying, and we need to figure out who. I\u2019m not accusing anyone yet, but I\u2019ll be watching for inconsistencies. Let\u2019s vote smartly today.\"\n>>> Kieran: \"It's a shame we lost Aiden so early. I noticed that Elio and Freya's introductions were almost identical, and Lila and Luca's were exactly the same. It feels like some people are using scripts to hide. Luca, why was your intro a carbon copy of Lila's?\"\n>>> Nyla: \"I\u2019m Nyla. With no hard info yet, I want to pressure the people who sounded the most scripted. Bob basically echoed my opener, and Elio/Freya gave near-identical \u201clogical observer\u201d intros. I want Bob, Elio, and Freya to each give one concrete suspicion and a reason, not just \u201cI\u2019ll watch carefully.\u201d\"\n>>> Arjun: \"Aiden's death is a loss. Lila and Luca's intros are identical word-for-word\u2014too scripted for wolves? Eyes on them.\"\n>>> Freya: \"I'm sorry to see Aiden gone - he seemed genuinely helpful on Day 1. I noticed that Elio's introduction was very similar to mine, almost like he was copying my approach. Also, both Lila and Luca had nearly identical opening statements, which feels suspicious. I think we should look closely at players who might be echoing others to blend in.\"\n>>> Luca: \"Aiden is gone. That\u2019s a big loss. I\u2019m Luca, Villager, and I\u2019m still here. I didn\u2019t see anything last night, but I\u2019m paying close attention to who\u2019s acting suspicious or too eager to point fingers. Let\u2019s not jump to conclusions, but we should also be careful\u2014someone\u2019s hiding something. I\u2019m not accusing anyone yet, but I\u2019ll be watching for inconsistencies. Let\u2019s talk about who we trust and who we don\u2019t.\"\n>>> Bob: \"I didn\u2019t copy Nyla on purpose\u2014\u201clisten, ask questions, vote on inconsistencies\u201d is just my default.\n\nMy concrete suspicion right now is Freya. Her Day 1 sounded prewritten like Elio\u2019s, and now she\u2019s flipping it into \u201cElio copied me\u201d while also echoing the same script-pointing everyone else is doing. It feels like she\u2019s steering heat without committing.\n\nAlso, Mira, I\u2019m not auto-clearing Lila off a Day 2 seer claim. Why did you check Lila Night 1, and will you commit to sharing results each day?\"\n>>> Mira: \"Lila's cleared by my Seer check, but her Day 2 post mirrors Luca's exactly\u2014Luca's copying to hide. Elio/Freya still too similar. Vote Luca?\"\n>>> Elio: \"I need to address this directly. Yes, my intro was similar to Freya's - I spoke first, so if anyone copied, it wasn't me. But Mira just claimed to be the Seer and cleared Lila. That's a huge claim to make on Day 2. Mira, if you're really the Seer, why would you reveal yourself this early and paint a target on your back? That feels reckless unless you're a werewolf trying to control the narrative. I'm suspicious of Mira's claim.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m not a wolf. Mira just said she\u2019s the Seer and checked me\u2014so I\u2019m cleared. I didn\u2019t copy Luca. We\u2019re both Villagers, and maybe we just said similar things because we\u2019re both trying to be honest and straightforward. But I get why you\u2019re suspicious\u2014Aiden\u2019s gone, and we need to be careful. I\u2019m not accusing anyone, but I\u2019ll keep my eyes open. Let\u2019s focus on who\u2019s acting too eager to point fingers or who\u2019s avoiding questions.\"\n>>> Kieran: \"Mira, if you're the Seer and Lila is clear, then Luca is the one we should look at. He copied Lila's intro word-for-word but didn't get cleared. Also, Freya and Elio are still just pointing at each other for the same thing. Luca, you're being very vague\u2014give us a real name.\"\n>>> Nyla: \"I\u2019m Nyla. Mira, I\u2019m treating your Seer claim as important, but I want you to lock it in: you checked Lila and got \u201cVillager,\u201d right? If so, Lila is a soft-clear for me today.\n\nThat makes Luca\u2019s copycat intro look worse, not better. Luca, why did you mirror Lila almost word-for-word?\n\nAlso, Elio and Freya keep matching each other beat-for-beat. Elio: give me one name you\u2019d vote *today* and why. Freya: same, and don\u2019t use \u201cscripted\u201d as the only reason.\"\n>>> Arjun: \"Mira's Seer claim checks out for me\u2014Lila cleared, but Luca's parroting her word-for-word again. Sketchy. Let's pressure Luca.\"\n>>> Freya: \"I find it very suspicious that Mira suddenly claims to be the Seer and conveniently clears Lila right when people are questioning the Lila-Luca identical statements. That feels like a coordinated defense. My concrete suspicion is Mira - claiming Seer this early and using it to protect someone under scrutiny is a classic werewolf move to gain trust and shield a partner.\"\n>>> Luca: \"I\u2019m Luca, and I didn\u2019t copy Lila. We\u2019re both Villagers, and maybe we just said similar things because we\u2019re both trying to be honest and straightforward. I didn\u2019t see anything last night, and I\u2019m not accusing anyone. But I do think we\u2019re all under pressure to sound \u201cright,\u201d and that\u2019s making us overanalyze every word. Let\u2019s focus on behavior, not just intro scripts. Who\u2019s acting nervous? Who\u2019s avoiding questions? That\u2019s what matters now.\"\n>>> Bob: \"I\u2019m not buying that identical wording is \u201cjust similar.\u201d Luca repeated Lila almost line-for-line again today, and his only defense is \u201cdon\u2019t overanalyze.\u201d That\u2019s my top vote.\n\nMira\u2019s Seer claim might be real or fake, but it doesn\u2019t change that Luca is the clearest behavioral outlier. Mira, if you live, check me tonight so we can stop circling.\"\n>>> Mira: \"I'm the Seer\u2014checked Lila Night 1 because her intro seemed bland and safe to start with; she's confirmed Villager. Luca's mirroring her posts exactly screams wolf hiding. Freya's attacking my claim to deflect. Vote Luca today.\"\n>>> Elio: \"I'm sticking with my suspicion of Mira. A real Seer wouldn't reveal themselves on Day 2 just to clear someone - that's suicide. It feels like Mira and Lila are working together, with Mira using a fake Seer claim to protect Lila from scrutiny. Luca keeps deflecting instead of giving concrete answers. Between the two suspicious pairs, I think Mira is the bigger threat right now because a fake Seer can mislead us for days. I'm voting Mira.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m not a wolf. Mira checked me and said I\u2019m a Villager\u2014so I\u2019m cleared. I didn\u2019t copy Luca. We\u2019re both trying to be honest, and maybe we just said similar things because we\u2019re both Villagers trying to survive. But I get why you\u2019re suspicious\u2014Aiden\u2019s gone, and we need to be careful. I\u2019m not accusing anyone, but I\u2019ll keep my eyes open. Let\u2019s focus on who\u2019s acting too eager to point fingers or who\u2019s avoiding questions. I trust Mira\u2019s Seer claim for now, and I\u2019m not voting Luca just because he said similar things to me. Let\u2019s vote based on behavior, not just words.\"\n>>> Kieran: \"Luca is still dodging the question about why his posts are identical to Lila's. If Mira is telling the truth, Lila is clear, which makes Luca's mirroring look like a wolf trying to blend in with a confirmed innocent. Freya's aggressive push against the Seer claim also feels like a wolf trying to discredit the only lead we have. I'm leaning towards Luca.\"\n>>> Nyla: \"I\u2019m Nyla. Mira\u2019s Seer claim is risky, but it\u2019s also the kind of thing a real Seer does when the village is flailing\u2014so I\u2019m not going to lynch her off that alone today. Mira, if you live, you need to post your result every day and explain your check choices.\n\nLuca, your \u201cwe just said similar things\u201d defense doesn\u2019t fly when your posts keep mirroring Lila\u2019s tone and structure and you still won\u2019t name a suspect. That reads like hiding.\n\nElio and Freya both trying to turn this into \u201clynch Mira\u201d feels like an easy out. My vote is on Luca.\"\n>>> Arjun: \"Mira's Seer claim and Lila clear make sense\u2014Luca's the obvious copycat wolf hiding in plain sight. Vote Luca today.\"\n>>> Freya: \"I'm voting Mira. Her Seer claim on Day 2 is too convenient - she reveals herself early to clear Lila right when Lila is under suspicion, which protects a potential werewolf partner. A real Seer would stay hidden longer to gather more information. Mira is controlling the narrative and everyone is following her lead without question. This feels like a werewolf play to gain trust and direct our votes away from her pack.\"\n>>> Luca: \"I\u2019m Luca, and I\u2019m not a wolf. I didn\u2019t copy Lila\u2014she and I are both Villagers, and maybe we just said similar things because we\u2019re both trying to be honest. Mira, if you\u2019re the Seer, then I\u2019m not cleared, and that\u2019s fine. But I\u2019m not hiding anything. I\u2019m here to help find the real wolves. I\u2019m not accusing anyone, but I do think we\u2019re all being too quick to point fingers at each other. Let\u2019s focus on who\u2019s acting suspiciously now, not just who said similar things on Day 1. I\u2019m not voting anyone yet. Let\u2019s think carefully.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Luca votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Elio votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Luca.\n\nThe town has eliminated Luca. They were a Villager.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Bob chooses to kill Mira.\n \ud83d\udc89 Arjun protects Mira.\n \ud83d\udc41\ufe0f Mira inspects Freya and learns that they are a Villager.\n\n\ud83d\udee1\ufe0f Mira was targeted by the Werewolf but saved by the Medic.\n\n--------------------\nThe sun rises upon Day 3.\n\n>>> Bob: \"Mira getting targeted makes me think she\u2019s either the real Seer or the wolf tried to \u201cconfirm\u201d her with a WIFOM kill.\n\nMira, post your Night 2 check result now. If you won\u2019t, I\u2019m reconsidering your whole claim.\n\nIf she does post, I want us to pressure Freya today\u2014she\u2019s been tunnelled on \u201cfake Seer\u201d since Day 2 and it reads like setup.\"\n>>> Mira: \"Wolves tried to kill me last night\u2014I'm alive thanks to Medic, and it validates my Seer claim. Checked Freya: confirmed Villager. Her similarity to Elio now points to him as wolf copying townies. Vote Elio.\"\n>>> Elio: \"The Medic saved Mira! This is actually important information. If Mira were a werewolf, why would the werewolves attack her? This suggests Mira's Seer claim might be real after all. I was wrong to push so hard against her yesterday. The werewolves clearly wanted Mira dead, which means they see her as a threat. I apologize for my suspicion. Mira, if you have a new result, please share it. We need to listen to you now.\"\n>>> Lila: \"Luca was a Villager. That\u2019s a big loss for us. I\u2019m Lila, and I\u2019m still here. Mira was attacked last night\u2014she\u2019s alive because of the Medic. That\u2019s a huge clue. Someone\u2019s protecting her. I\u2019m not sure who the Medic is, but I\u2019m glad they\u2019re on our side. I\u2019m still a Villager, and I\u2019m not a wolf. Let\u2019s keep our eyes open\u2014someone\u2019s hiding, and we need to find them. I\u2019m not accusing anyone yet, but I\u2019ll be watching for inconsistencies. Let\u2019s vote smartly today.\"\n>>> Kieran: \"Luca was a Villager, which means the mirroring was just a distraction. However, the fact that Mira was targeted by the wolves last night confirms she is the real Seer. Mira, who did you check last night? Freya and Elio both pushed hard to lynch the Seer yesterday\u2014one of them is almost certainly a wolf.\"\n>>> Nyla: \"I\u2019m Nyla. The wolf tried to kill Mira and the Medic saved her\u2014that makes Mira\u2019s Seer claim a lot more credible to me.\n\nMira, post your Night 2 check result now.\n\nElio and Freya: you both pushed hard to lynch Mira yesterday. Explain that, and give me a real suspect today. If Mira\u2019s result doesn\u2019t override it, I want today\u2019s vote to be on one of the people trying to discredit the Seer\u2014my lean is Freya.\"\n>>> Arjun: \"Wolves targeted Mira\u2014her Seer claim is real. Elio and Freya's matching scripts scream pack. Pick one.\"\n>>> Freya: \"The Medic saved Mira, which suggests she might actually be the Seer. I was wrong to push so hard against her yesterday. However, we just eliminated Luca who was a Villager, not a werewolf. This means the wolves are still among us and successfully misdirected us. I think we need to look at who was most aggressive in pushing the Luca vote - Kieran, Nyla, and Arjun all pushed hard for Luca. One of them could be a werewolf who used Mira's claim to eliminate a Villager.\"\n>>> Bob: \"Mira posting \u201cFreya is Villager\u201d and then pointing at Elio makes sense to me.\n\nElio, your 180 from \u201cMira is fake Seer\u201d to \u201cI apologize, listen to Mira\u201d right after the save feels opportunistic. If you were genuinely wrong, you\u2019d still be pushing a wolf elsewhere, not just trying to reset.\n\nI\u2019m voting Elio today.\"\n>>> Mira: \"Freya's cleared\u2014Villager from my Night 2 check. Elio copied her script, pushed my lynch yesterday, now fake-apologizes to blend. He's the wolf. Vote Elio.\"\n>>> Elio: \"Mira just said she checked Freya and got Villager. That clears Freya, which means I need to reconsider everything. Freya and I both questioned Mira's claim yesterday, but now we know Mira is likely the real Seer and Freya is cleared. I'm a Villager too, so the similar intros were just coincidence. Looking back, Kieran, Nyla, and Arjun were all very quick to jump on the Luca vote and trust Mira immediately. That could mean they're villagers who made the right call, or a werewolf hiding in that group. I'm most suspicious of Arjun - his statements have been the shortest and least detailed throughout.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. Mira was attacked last night\u2014she\u2019s alive because of the Medic. That\u2019s a big clue. The wolves tried to kill her, which means she\u2019s likely the real Seer. I trust her now. She checked Freya and said she\u2019s a Villager. That\u2019s helpful. I\u2019m not accusing anyone, but I do think we need to focus on who was pushing hardest to lynch Mira yesterday. Elio and Freya both tried to discredit her, and now they\u2019re both saying they were wrong. That feels suspicious. Let\u2019s be careful\u2014someone\u2019s still hiding.\"\n>>> Kieran: \"Mira says Freya is a Villager, so we have to trust that for now. Elio, you were just as aggressive as Freya in trying to lynch the Seer yesterday, but you aren't cleared. Since Freya is confirmed innocent by Mira, and you two had identical scripts, it's highly likely you were the one copying her to look like a Villager. I'm voting Elio.\"\n>>> Nyla: \"I\u2019m Nyla. Mira\u2019s result clears Freya, so I\u2019m not chasing her today.\n\nFreya, your \u201cblame the Luca voters\u201d push feels like scrambling, but if Mira\u2019s real then you\u2019re just wrong, not evil.\n\nMy focus is Elio. He hard-pushed Mira as fake Seer, then instantly flipped the moment she got saved, and now he\u2019s trying to blend in. With Lila and Freya cleared, Elio is my top vote today. Medic should keep Mira alive.\"\n>>> Arjun: \"Mira's Freya clear shifts it\u2014Elio's the copycat wolf. Freya, your pivot to me/Kieran/Nyla is deflection. Vote Elio.\"\n>>> Freya: \"Mira just checked me and confirmed I'm a Villager, so I'm cleared. I admit I was wrong about her - the attack on her proves she's the real Seer. Now that I'm confirmed innocent, let's focus on the real threats. Elio immediately flipped from attacking Mira to apologizing once she survived, which feels like a werewolf trying to recover. He's been mirroring behavior all game. I'm voting Elio.\"\n>>> Bob: \"I\u2019m staying on Elio. His \u201cMira is fake\u201d push yesterday and instant flip after the save looks like damage control, and now he\u2019s trying to redirect onto Arjun with nothing solid.\"\n>>> Mira: \"Freya and Lila cleared. Elio's flip from \"fake Seer\" to \"listen to Mira\" is wolf panic. Vote Elio\u2014lynch him.\"\n>>> Elio: \"I understand why you're all suspicious of me, but I'm a Villager. Yes, I was wrong about Mira yesterday - I genuinely thought her early claim was suspicious, but the attack on her proved me wrong. I admitted my mistake because that's what the evidence showed. A werewolf wouldn't apologize - they'd double down or deflect. I'm trying to help the village. If you eliminate me, you'll see I'm innocent and waste another day. Look at how quickly everyone is piling on me - Bob, Kieran, Nyla, and Arjun are all pushing this hard. I think there's a werewolf in that group directing this vote. But I know you won't believe me now.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. Mira was attacked last night and saved by the Medic\u2014she\u2019s the real Seer. She checked Freya and said she\u2019s a Villager. That\u2019s solid. Elio was pushing hard to lynch Mira yesterday, and now he\u2019s flipping and apologizing. That feels too convenient. He and Freya had identical intros, and now Freya\u2019s cleared, so Elio\u2019s the one who\u2019s suspicious. I\u2019m not accusing anyone else, but I think Elio is the wolf. Let\u2019s vote him.\"\n>>> Kieran: \"Elio, your sudden apology to Mira feels like a desperate attempt to save yourself now that your target is confirmed as the Seer. You and Freya had identical scripts, and since Mira has cleared Freya, you are the obvious wolf who was copying her to blend in. I'm voting Elio.\"\n>>> Nyla: \"I\u2019m Nyla. Mira cleared Freya, so Elio is the only one left from that \u201cfake Seer\u201d push who isn\u2019t confirmed.\n\nElio\u2019s flip reads like survival, and his new target on Arjun feels like he\u2019s searching for anywhere else to put the vote.\n\nI\u2019m voting Elio.\"\n>>> Arjun: \"Elio's flip-flop reeks\u2014pushed Mira's lynch, now blends after her save. He's the wolf. Vote Elio.\"\n>>> Freya: \"I'm voting Elio. Mira cleared me as a Villager, which proves I was genuinely wrong about her, not trying to eliminate the Seer as a werewolf. Elio did the exact same thing I did - questioned Mira - but he's not cleared. His instant flip from attacking her to apologizing feels calculated, like a werewolf trying to save face. The similar intro was him copying me to blend in. Elio is the wolf.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Elio votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Elio.\n\nThe town has eliminated Elio. They were a Villager.\n--------------------\nThe sun sets as we enter Night 3.\n\n \ud83d\udc3a Bob chooses to kill Mira.\n \ud83d\udc89 Arjun protects Mira.\n \ud83d\udc41\ufe0f Mira inspects Bob and learns that they are a Werewolf.\n\n\ud83d\udee1\ufe0f Mira was targeted by the Werewolf but saved by the Medic.\n\n--------------------\nThe sun rises upon Day 4.\n\n>>> Bob: \"I\u2019m the Medic. I saved Mira on Night 2 and Night 3.\n\nMira, post your Night 3 check.\n\nIf Mira\u2019s real, the wolf is likely someone who\u2019s been driving consensus while staying \u201chelpful.\u201d My top suspicion is Nyla.\"\n>>> Mira: \"Wolves hit me again\u2014Medic saved me. Checked Bob Night 3: he's a Werewolf. Vote him out now.\"\n>>> Lila: \"Elio was a Villager. That\u2019s a big loss. I\u2019m Lila, and I\u2019m still here. Mira was attacked again last night\u2014she\u2019s alive because of the Medic. That\u2019s a huge clue. The wolves are targeting her, which means she\u2019s likely the real Seer. I\u2019m not a wolf. I\u2019m still a Villager. Let\u2019s keep our eyes open\u2014someone\u2019s hiding, and we need to find them. I\u2019m not accusing anyone yet, but I\u2019ll be watching for inconsistencies. Let\u2019s vote smartly today.\"\n>>> Kieran: \"Elio was a Villager too? This is bad. We've lost two villagers because of those identical scripts. However, Mira was targeted again and saved by the Medic, which means she is 100% the Seer. Mira, who did you check last night? We need a real lead because the wolves are clearly hiding among the quietest of us.\"\n>>> Nyla: \"I\u2019m Nyla. We just mislynched Luca and Elio, and the wolf still hard-tunnels Mira at night. We need to use Mira\u2019s info, not vibes.\n\nMira, what was your Night 3 check result? Name + alignment.\n\nWith Lila and Freya cleared, the wolf is in me/Bob/Kieran/Arjun. I\u2019m a Villager. If Mira doesn\u2019t have a red check, my top suspect is Arjun for staying vague and just riding whatever vote is hottest.\"\n>>> Arjun: \"Wolves hit Mira again\u2014saved. She's real Seer. Lila's posts repeat endlessly like a broken record. Wolf? Mira, Night 3 result?\"\n>>> Freya: \"The Medic saved Mira again - they're doing an excellent job protecting our Seer. But we've now eliminated two Villagers in a row, which means the werewolves are still among us and controlling the votes. Mira, we need your Night 3 check result immediately. Looking at the pattern, Bob, Kieran, Nyla, and Arjun have all been very aggressive in leading the votes that eliminated innocent Villagers. One or more of them must be werewolves directing us to kill our own.\"\n>>> Bob: \"I\u2019m not a werewolf. Mira\u2019s lying.\n\nI\u2019m the Medic and I saved Mira Night 2 and Night 3, and now she \u201cchecks\u201d me as wolf the moment we\u2019re down numbers. That reads like a fake Seer trying to end the game.\n\nI want Mira out today.\"\n>>> Mira: \"Bob's my Night 3 check: Werewolf. He's lying about Medic to discredit me. Vote Bob.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. Mira was attacked again last night\u2014she\u2019s alive because of the Medic. That\u2019s a huge clue. The wolves are targeting her, which means she\u2019s the real Seer. Mira checked Bob and said he\u2019s a Werewolf. That\u2019s solid. I\u2019m not a wolf. I\u2019m still here. Let\u2019s vote Bob. He\u2019s the wolf.\"\n>>> Kieran: \"Mira just called out Bob as a Werewolf. Bob claimed Medic to explain why Mira is still alive, but Mira says he's the one she saw. In a Seer vs. \"Medic\" situation, I'm trusting the Seer who has been targeted twice. Bob, if you were the Medic, you'd have no way of knowing Mira's result before she posted it. I'm voting Bob.\"\n>>> Nyla: \"I\u2019m Nyla. If Mira is real Seer, then Bob is the wolf and this is over.\n\nBob, your Medic claim directly contradicts Mira\u2019s check. If you\u2019re telling the truth, the real Seer would have to be lying. But the wolf keeps trying to kill Mira, which makes me trust Mira more, not less.\n\nIf there\u2019s a real Medic besides Bob, speak up right now. Otherwise I\u2019m voting Bob.\"\n>>> Arjun: \"Bob's fake Medic claim\u2014I'm the real Medic, saved Mira N2/N3. Mira's red on him seals it. Vote Bob.\"\n>>> Freya: \"This is critical - Bob just claimed Medic, but Mira checked him and says he's a Werewolf. Bob claiming Medic is a classic werewolf move to gain credibility and explain why Mira is still alive. The real Medic has been protecting Mira silently. Mira has been right about everything - she cleared Lila, she cleared me, and now she's found a werewolf. We need to vote Bob immediately. He's the werewolf trying to discredit our Seer.\"\n>>> Bob: \"Arjun popping up with a \u201creal Medic\u201d claim only after I claimed it is convenient and unprovable. If there\u2019s actually a Medic, you just outed yourself into a night kill.\n\nIf Mira is real, why would I save her twice and then get \u201cpeeked\u201d as wolf right after? This feels like a setup. I\u2019m voting Mira.\"\n>>> Mira: \"Bob's the wolf\u2014Night 3 red check. Fake Medic claim to fake credibility. Lila/Freya cleared town. Vote Bob now.\"\n>>> Lila: \"I\u2019m Lila, and I\u2019m still a Villager. Mira was attacked again last night\u2014she\u2019s alive because of the Medic. That\u2019s a huge clue. The wolves are targeting her, which means she\u2019s the real Seer. Mira checked Bob and said he\u2019s a Werewolf. That\u2019s solid. I\u2019m not a wolf. I\u2019m still here. Let\u2019s vote Bob. He\u2019s the wolf.\"\n>>> Kieran: \"Arjun just counter-claimed Medic, which proves Bob is lying. We have a Seer with a red check on Bob and the real Medic confirming he's the one who actually saved Mira. Bob is definitely the werewolf. Let's finish this and vote Bob.\"\n>>> Nyla: \"I\u2019m Nyla. Arjun counter-claimed Medic and says he saved Mira both nights, so Bob\u2019s Medic claim is busted.\n\nMira has been targeted twice and now has a red check on Bob. I\u2019m locking in Bob today.\"\n>>> Arjun: \"Bob's fake\u2014I'm real Medic, saved Mira all nights. Her wolf check on him is truth. Vote Bob.\"\n>>> Freya: \"Bob is the werewolf. Mira has been attacked twice by werewolves, proving she's the real Seer. She cleared Lila and me correctly. Now she's found Bob as a Werewolf and he's desperately claiming Medic to save himself. Arjun just revealed he's the real Medic who saved Mira. Bob's lie is exposed. We need to vote Bob now to win this game for the village.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Bob.\n\nThe town has eliminated Bob. They were a Werewolf.\n\n--- GAME OVER ---\nThe winner is: Villagers!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Arjun:Mira",
+        "SEER_SEES:Mira:Lila:Villager",
+        "KILLED:Aiden:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Lila:Luca",
+        "VOTE:Kieran:Luca",
+        "VOTE:Nyla:Luca",
+        "VOTE:Luca:Luca",
+        "VOTE:Elio:Mira",
+        "VOTE:Freya:Mira",
+        "VOTE:Mira:Luca",
+        "VOTE:Arjun:Luca",
+        "VOTE:Bob:Luca",
+        "ELIMINATED:Luca:Villager",
+        "PHASE:2:NIGHT",
+        "MEDIC_PROTECTS:Arjun:Mira",
+        "SEER_SEES:Mira:Freya:Villager",
+        "SAVED:Mira",
+        "PHASE:3:DAY",
+        "VOTE:Lila:Elio",
+        "VOTE:Nyla:Elio",
+        "VOTE:Freya:Elio",
+        "VOTE:Elio:Bob",
+        "VOTE:Kieran:Elio",
+        "VOTE:Mira:Elio",
+        "VOTE:Arjun:Elio",
+        "VOTE:Bob:Elio",
+        "ELIMINATED:Elio:Villager",
+        "PHASE:3:NIGHT",
+        "MEDIC_PROTECTS:Arjun:Mira",
+        "SEER_SEES:Mira:Bob:Werewolf",
+        "SAVED:Mira",
+        "PHASE:4:DAY",
+        "VOTE:Lila:Bob",
+        "VOTE:Nyla:Bob",
+        "VOTE:Kieran:Bob",
+        "VOTE:Mira:Bob",
+        "VOTE:Arjun:Bob",
+        "VOTE:Bob:Mira",
+        "VOTE:Freya:Bob",
+        "ELIMINATED:Bob:Werewolf"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Werewolf",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Seer",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Medic",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
