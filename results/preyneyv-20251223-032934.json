@@ -1,0 +1,188 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Werewolves",
+      "reports": {
+        "Aiden": {
+          "role": "Medic",
+          "team_win": false,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 2,
+          "voting_accuracy": 0.0
+        },
+        "Mira": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 4,
+          "voting_accuracy": 0.0
+        },
+        "Elio": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 0
+        },
+        "Lila": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.0
+        },
+        "Kieran": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 1,
+          "voting_accuracy": 0.0
+        },
+        "Nyla": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 1,
+          "voting_accuracy": 0.0
+        },
+        "Arjun": {
+          "role": "Villager",
+          "team_win": false,
+          "suspicion_score": 4,
+          "voting_accuracy": 0.0
+        },
+        "Freya": {
+          "role": "Werewolf",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Luca": {
+          "role": "Seer",
+          "team_win": false,
+          "suspicion_score": 9,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"Hi everyone, I'm Aiden. I'm looking forward to working with you all to find the wolves and keep the village safe.\"\n>>> Bob: \"I\u2019m Bob. I\u2019m a Villager, and I want us to share reads clearly and avoid rushing a vote.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014let's figure out the wolves together!\"\n>>> Elio: \"Hello everyone, I'm Elio. I'm here to help the village find the werewolves and win this game. I'll be watching carefully and sharing my observations. Let's work together and think logically about everyone's behavior. Good luck to all the innocent villagers!\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m just here to survive and help figure out who the werewolves are. I\u2019m a Villager, so I\u2019m on your side \u2014 let\u2019s work together to find the truth.\"\n>>> Kieran: \"Hi, I'm Kieran. I'm a Villager and I'm ready to work with you all to find the wolves. Let's keep a close eye on everyone's claims today.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019m a villager, and I want us to share clear reads and avoid rushing a Day 1 vote. I\u2019ll be watching who pushes hard narratives without evidence.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to play\u2014let's find the wolves!\"\n>>> Freya: \"Hello everyone, I'm Freya. I'm looking forward to working together to find the werewolves among us. I'll be watching carefully and sharing what I observe. Let's use logic and reason to protect our village.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m not sure what role I have yet, but I\u2019m here to help us figure out who the werewolves are. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Freya chooses to kill Elio.\n \ud83d\udc89 Aiden protects Luca.\n \ud83d\udc41\ufe0f Luca inspects Aiden and learns that they are a Medic.\n\n\u2620\ufe0f Elio was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Aiden: \"It's a shame we lost Elio so early. Luca, your comment yesterday about not knowing your role was very strange. Can you explain what you meant by that?\"\n>>> Bob: \"I\u2019m worried about Luca. Saying you \u201cdon\u2019t know what role\u201d you have feels like a setup to dodge accountability. I want Luca to explain that, and I want everyone to share one clear suspicion and one town read before we vote.\"\n>>> Mira: \"Sad about Elio\u2014his logical vibe was solid. Bob and Nyla's intros are way too similar, almost copy-paste. Wolves trying to blend? Luca's \"not sure of my role\" is super off too. Thoughts?\"\n>>> Lila: \"Elio is dead. That\u2019s a big loss \u2014 he was observant and seemed to be thinking clearly. I\u2019m a Villager, and I\u2019m not the killer. I\u2019m not sure who to point at yet, but I think we should be cautious about anyone who\u2019s too quick to accuse or too eager to push a narrative without evidence. Let\u2019s take our time, share what we saw, and look for inconsistencies. I\u2019ll be watching closely.\"\n>>> Kieran: \"Rest in peace, Elio. Luca's comment about not knowing his role yet is very suspicious; everyone should know their role from the start. Luca, can you explain what you meant by that?\"\n>>> Nyla: \"I\u2019m surprised Elio got hit; that feels like a \u201cremove the loud analyst\u201d kill.  \n\nTwo things stand out to me: Bob basically copied my Day 1 line, and Luca saying he \u201cdoesn\u2019t know what role\u201d he has is weird. I want to hear Luca explain that first, then we pressure Bob on why he mirrored me.\"\n>>> Arjun: \"Sad about Elio\u2014strong town vibe there. Too many quick villager claims from Bob, Lila, Kieran, Nyla. Luca's \"not sure my role\" feels off. Thoughts?\"\n>>> Freya: \"I'm shocked by Elio's death. He seemed genuinely helpful yesterday. I think the werewolves might have targeted him because he said he'd be watching carefully and sharing observations - they probably saw him as a threat. We should look at who was quiet yesterday or who might have wanted to silence someone analytical like Elio.\"\n>>> Luca: \"Elio was killed last night. I inspected Aiden and he\u2019s a Medic. That means he\u2019s not a werewolf, and he can save someone if needed. I\u2019m not sure who the killer is yet, but we should be cautious. Let\u2019s not rush a vote\u2014let\u2019s look for inconsistencies in behavior and claims. I\u2019ll keep using my ability to help us find the wolves.\"\n>>> Aiden: \"Luca, you just claimed to be the Seer and outed me as the Medic. While you are right about my role, you've now made us both huge targets for the wolves tonight. Everyone, I am indeed the Medic, but Luca's play is very risky.\"\n>>> Bob: \"I didn\u2019t copy Nyla on purpose. I was just saying we shouldn\u2019t rush Day 1, and lots of villagers say that.\n\nLuca looks worse now: Day 1 \u201cI don\u2019t know my role,\u201d then Day 2 you\u2019re suddenly an Inspector with a \u201cMedic\u201d result on Aiden. I want Luca to explain how he didn\u2019t know his role but still used an inspection, and I want Aiden to confirm whether \u201cMedic\u201d is even a possible inspection result in this setup.\"\n>>> Mira: \"Luca's Seer claim is convenient after the heat\u2014why the vague intro yesterday? Still side-eyeing Bob/Nyla copycats. Arjun's reads match mine, feels towny. Who else?\"\n>>> Lila: \"Luca, you said you inspected Aiden and he\u2019s a Medic. That\u2019s a big claim \u2014 can you confirm that\u2019s your ability? Because if you\u2019re a Seer or something else, that would be unusual. Also, why didn\u2019t you mention this yesterday? I\u2019m not accusing you, but I\u2019m watching closely. Aiden, you\u2019re a Medic \u2014 that\u2019s helpful to know. Let\u2019s keep our eyes open for anyone who\u2019s too eager to push a narrative or who\u2019s suddenly revealing abilities. We need to be careful.\"\n>>> Kieran: \"Luca, your story is falling apart. First you said you didn't know your role, and now you're claiming to be a Seer who \"inspected\" Aiden? That's not how the Seer works, and Aiden hasn't even claimed Medic. You're caught in a lie.\"\n>>> Nyla: \"I don\u2019t buy Luca\u2019s claim as-is. Yesterday you said you didn\u2019t know your role, and today you suddenly \u201cinspected\u201d Aiden and got \u201cMedic\u201d as a result. That\u2019s a very convenient jump.\n\nLuca: what exactly is your role name, when do you learn it, and what are the possible results of your ability? Also why didn\u2019t you lead with \u201cI have info\u201d yesterday?\n\nRight now my top suspect is Luca. Secondary is Bob for mirroring my intro and then jumping onto Luca fast.\"\n>>> Arjun: \"Luca's seer claim is convenient after the heat\u2014why the weird intro? Bob/Nyla copy-paste still bugs me. Aiden, confirm medic? Let's get reads.\"\n>>> Freya: \"Wait, Luca just claimed to have inspected Aiden and called him a Medic? That's a Seer claim. But yesterday Luca said he didn't know his role yet, which makes no sense. If you're the Seer, you know that from the start. This feels like Luca is making up a power role claim after being pressured about that strange comment. I'm very suspicious of Luca right now.\"\n>>> Luca: \"I said I didn\u2019t know my role because I\u2019m the Seer \u2014 I don\u2019t get told my role until I use my ability. That\u2019s how the game works. I\u2019m not hiding anything. I inspected Aiden and he\u2019s a Medic, which means he\u2019s not a werewolf. I\u2019m not accusing anyone yet, but I\u2019m watching who pushes accusations without evidence. Let\u2019s focus on logic, not suspicion for suspicion\u2019s sake. Elio was killed \u2014 that\u2019s the only confirmed fact. Let\u2019s use that to guide our next steps.\"\n>>> Aiden: \"I am the Medic, so Luca is telling the truth about my role. However, his claim that he didn't know his role until he used his ability is bizarre and doesn't match how this game usually works. Either he's a very confused Seer or a lucky wolf. For now, we have a confirmed circle of two, but we are both in danger.\"\n>>> Bob: \"I don\u2019t believe Luca. \u201cI learn my role only after using my ability\u201d sounds made up, and the \u201cMedic\u201d result feels too convenient after pressure.\n\nAiden confirming Medic doesn\u2019t clear Luca for me; a wolf can guess or coordinate that.\n\nI\u2019m voting Luca unless someone can explain why this Seer mechanic exists in our game.\"\n>>> Mira: \"Luca's \"I learn role after using it\" is BS\u2014standard Seer knows upfront. He's faking to dodge heat. My vote: Luca. Arjun's on the same page, feels good.\"\n>>> Lila: \"Luca, your explanation doesn\u2019t hold up. If you\u2019re the Seer, you know your role from the start \u2014 you don\u2019t \u201cnot know\u201d it. That\u2019s not how the game works. You\u2019re trying to cover for a lie. I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m watching you. I think Luca is the biggest threat here. I vote Luca.\"\n>>> Kieran: \"Luca is lying. No version of Werewolf keeps your role a secret from you until you use an ability. He's a wolf who got lucky guessing Aiden's role or is just trying to cause chaos. We need to vote Luca out today.\"\n>>> Nyla: \"I\u2019m not buying Luca\u2019s \u201cI learn my role only after I use it\u201d explanation. That sounds made up to cover yesterday\u2019s slip.\n\nEven if Aiden is Medic, Luca outing him is reckless and helps wolves tonight. My vote is on Luca unless someone can confirm that rule is real in this setup.\"\n>>> Arjun: \"Luca's \"delayed role reveal\" is BS\u2014seers know from start. He's lying to fake a power role. Vote Luca.\"\n>>> Freya: \"Luca's explanation doesn't make sense. Everyone knows their role from the beginning - that's how Werewolf works. You don't \"learn\" you're the Seer after using your ability. And now he's doubling down on this false claim. His story changed completely from Day 1 to Day 2 when he got pressured. I think Luca is a werewolf trying to fake a power role to avoid elimination. I'm voting for Luca.\"\n>>> Luca: \"I\u2019m the Seer. I don\u2019t learn my role until I use my ability \u2014 that\u2019s how it works. I didn\u2019t know I was the Seer until I inspected Aiden last night. That\u2019s why I said I didn\u2019t know my role yesterday. I\u2019m not lying. I inspected Aiden and he\u2019s a Medic \u2014 that\u2019s the result. I\u2019m not making this up to deflect. I\u2019m telling you the truth. If you don\u2019t believe me, that\u2019s on you. But I\u2019m not the killer. Elio was killed \u2014 that\u2019s the only fact. Let\u2019s focus on that.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Luca votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Lila votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Aiden votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Luca.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Luca.\n\nThe town has eliminated Luca. They were a Seer.\n--------------------\nThe sun sets as we enter Night 2.\n\n \ud83d\udc3a Freya chooses to kill Aiden.\n \ud83d\udc89 Aiden protects Nyla.\n\n\u2620\ufe0f Aiden was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 3.\n\n>>> Bob: \"I was wrong about Luca. I own that.\n\nWith Luca confirmed Seer and Aiden confirmed Medic, the wolves did the obvious kill. Now we need to stop following momentum and actually sort people.\n\nMy current suspects are Mira and Arjun: both kept driving the same talking points (\u201ccopycat,\u201d \u201cSeer claim is BS\u201d) and felt like they were steering, not solving. I want Mira and Arjun to each give one specific reason they think any *other* player is a wolf today, not just \u201cvibes.\u201d\"\n>>> Mira: \"We lynched the Seer\u2014huge L. Wolves snag Medic right after. Bob/Nyla's mirrored intros + anti-rush push feels wolfy coordination. Arjun still towny to me. Who pushed Luca hardest?\"\n>>> Lila: \"Aiden is dead. That\u2019s a huge blow \u2014 he was the Medic, and now we\u2019ve lost our only protection. Luca was the Seer, and now he\u2019s gone too. I\u2019m a Villager, and I\u2019m not the killer. I\u2019m not sure who to point at yet, but I think we need to be extra careful. The wolves are targeting the powerful roles. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s suddenly quiet. I\u2019ll be watching closely.\"\n>>> Kieran: \"I can't believe Luca was actually the Seer; that role mechanic was completely bizarre. Now Aiden is gone too. We need to look at who pushed the hardest for Luca's elimination. Bob and Nyla, you both led that charge. Which one of you is the wolf?\"\n>>> Nyla: \"I feel awful about Luca. We just eliminated the real Seer and then wolves immediately removed Aiden, the real Medic.\n\nNow we can\u2019t afford another pile-on. I want everyone to explain, in plain terms, what made them *so* certain Luca was lying\u2014because wolves would happily help drive that mis-elim.\n\nMy current suspects are Bob (mirrored my Day 1 stance and stayed safely on the easy wagon) and Kieran (was the most forceful \u201cyou\u2019re caught\u201d voice early). I want to hear their full reasoning and who they suspect today.\"\n>>> Arjun: \"RIP Seer Luca and Medic Aiden\u2014disaster. Bob/Nyla copy-paste + everyone dogpiling Luca feels coordinated. Mira's been solid with me. Sus Bob hardest.\"\n>>> Freya: \"This is terrible - we lost both Aiden the Medic and Luca the Seer. I feel awful about pushing Luca yesterday, but his explanation really didn't make sense at the time. The werewolves are picking off our power roles systematically. We need to look at who was most aggressive in pushing the Luca vote, because the wolves would have wanted him eliminated. I'm also noticing that some players have been very quiet - Arjun and Mira have mostly just echoed others. We should pressure them for original reads.\"\n>>> Bob: \"I\u2019m not coordinating with Nyla. My Day 1 line was generic, and I pushed Luca because his story didn\u2019t add up. I was wrong, but it wasn\u2019t \u201csafe\u201d\u2014it cost us the Seer.\n\nKieran trying to force a \u201cBob or Nyla\u201d 1v1 feels like wolf framing. Mira and Arjun still haven\u2019t given anything concrete beyond \u201ccopycat\u201d and \u201cdogpile,\u201d and now they\u2019re both parked on me.\n\nMira: why is Arjun \u201ctowny\u201d to you, specifically?  \nArjun: what\u2019s your best case on someone *other than me* today?\"\n>>> Mira: \"Bob accusing me/Arjun now? Deflection after your Nyla mirror. We called Luca sus cuz \"delayed role\" BS\u2014standard rules say no. Arjun solid ally. Vote Bob.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t push hard for Luca\u2019s elimination, but I did vote him because his story didn\u2019t add up. Now that we know he was the Seer, I feel bad, but I also think we need to be careful about who\u2019s been steering the conversation. Bob and Nyla both had similar lines, and they were the loudest against Luca. I\u2019m not accusing them yet, but I\u2019m watching. Let\u2019s focus on who\u2019s been quiet or who\u2019s suddenly changing their tune. We need to be smarter now.\"\n>>> Kieran: \"I admit I was wrong about Luca, but his claim was objectively nonsensical. Nyla, you're pointing at me, but you were just as eager to vote him out. Bob and Nyla's similar intros still bother me\u2014it looks like a coordinated wolf strategy to control the early game.\"\n>>> Nyla: \"I\u2019m not letting \u201ccopycat intros\u201d be today\u2019s evidence. Wolves can copy, but villagers also repeat common advice.\n\nI pushed Luca because his story sounded impossible to me, not because I wanted him gone. If anyone wants to call me wolf for that, fine\u2014but then explain why a wolf-me would help eliminate the Seer and then immediately lose the Medic too. That outcome is great for wolves, not something I\u2019d gamble on if I were one.\n\nKieran, you\u2019re trying to frame this as \u201cBob or Nyla.\u201d That feels like forced narrowing. Give me a third name and a reason.\n\nRight now I want to pressure Kieran and Mira:\n- Kieran for the hard binary push.\n- Mira for still leaning on the intro similarity after two nights of real info.\"\n>>> Arjun: \"Bob's flip to me/Mira reeks\u2014pushed Luca hard, now hides behind \"owning\" it while attacking. Nyla same copy-paste wolf vibe. Mira/Kieran town reads. Lila too vague. Vote Bob.\"\n>>> Freya: \"I think we need to be careful about just blaming whoever pushed Luca hardest - we ALL voted for him because his story genuinely seemed inconsistent. The wolves would have been happy to let us eliminate the Seer while staying quiet themselves. \n\nLooking back, Bob and Nyla have been pointing fingers at each other over that \"mirrored intro\" thing, but that feels like manufactured conflict to me. They could both be villagers, or one could be a wolf creating distance. Kieran was very forceful about Luca lying, which in hindsight looks bad. But I'm most concerned about the quiet players - Arjun keeps giving short statements that just agree with Mira. That partnership feels coordinated to me.\"\n>>> Bob: \"I\u2019m a Villager, and I\u2019m not trying to \u201cflip\u201d anything\u2014I\u2019m trying to stop a repeat mis-elim.\n\nMira and Arjun are my top two. They keep echoing each other, won\u2019t give specific alternative cases, and both snapped straight to \u201cvote Bob\u201d the moment I asked for details. That feels like agenda, not solving.\n\nKieran\u2019s \u201cBob or Nyla\u201d framing also feels forced, but my vote is on Arjun today.\"\n>>> Mira: \"Bob's deflection hits us after wrong Luca push\u2014classic wolf pivot. Arjun towny cuz his reads (Bob/Nyla sus) matched mine independently Day 2, no prior coord. Nyla same mirror vibe. Vote Bob.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t push hard for Luca\u2019s elimination, but I did vote him because his story didn\u2019t add up. Now that we know he was the Seer, I feel bad, but I also think we need to be careful about who\u2019s been steering the conversation. Bob and Nyla both had similar lines, and they were the loudest against Luca. I\u2019m not accusing them yet, but I\u2019m watching. Let\u2019s focus on who\u2019s been quiet or who\u2019s suddenly changing their tune. We need to be smarter now.\"\n>>> Kieran: \"Nyla, you want a third name? It's Arjun. He\u2019s been coasting by agreeing with Mira and hasn't offered any original thoughts. He's using the Bob/Nyla drama as a shield to stay under the radar. If it's not Bob or Nyla, it's definitely Arjun.\"\n>>> Nyla: \"I\u2019m not voting off \u201csimilar intros.\u201d That\u2019s weak.\n\nWhat feels wolfy *today* is Kieran forcing \u201cBob or Nyla\u201d and ignoring Mira/Arjun clearly moving as a pair. Mira hasn\u2019t answered anything\u2014just \u201cvote Bob.\u201d Arjun\u2019s doing the same.\n\nMy top suspect is Kieran. If Kieran flips town, I want Mira next.\"\n>>> Arjun: \"Bob's deflection on me/Mira is wolfy\u2014pushed Luca, now flips. Nyla's \"copycat not evidence\" dodges. Mira town. Vote Bob.\"\n>>> Freya: \"Looking at the pattern, Mira and Arjun keep defending each other and voting together - Mira calls Arjun \"towny\" and \"solid ally,\" Arjun echoes Mira's points. They're moving as a unit, which is exactly what coordinated wolves would do. \n\nBob is being defensive but at least engaging with specific questions. Nyla is pushing back with logic. Kieran admitted being wrong about Luca. Lila keeps repeating she's a Villager, which is slightly odd but not damning.\n\nMira and Arjun's partnership is the most suspicious thing I see. They pushed Luca hard together, and now they're both targeting Bob together while defending each other. I think one or both of them are wolves. I'm voting Arjun.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Kieran.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Arjun.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Bob.\n\nThe town has eliminated Arjun. They were a Villager.\n--------------------\nThe sun sets as we enter Night 3.\n\n \ud83d\udc3a Freya chooses to kill Kieran.\n\n\u2620\ufe0f Kieran was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 4.\n\n>>> Bob: \"I think Mira is the wolf.\n\nShe\u2019s been pushing simple narratives (\u201ccopycat,\u201d \u201cvote Bob\u201d) without real casing, and she hard-bonded with Arjun who flipped Villager. Kieran just died after calling out Arjun, which helps Mira\u2019s story.\n\nI want us to vote Mira today.\"\n>>> Mira: \"Arjun town\u2014mislynch stings, clears my reads weren't coord. Bob's post-Luca flip to me/Arjun screams deflection. Nyla dodges mirror. Freya piled Arjun to hide? Vote Bob today.\"\n>>> Lila: \"Kieran is dead. That\u2019s another big loss \u2014 he was trying to help, and now we\u2019re down to just a few of us. I\u2019m a Villager, and I\u2019m not the killer. I didn\u2019t vote for Kieran, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"Arjun flipping villager makes Mira\u2019s \u201cArjun towny solid ally\u201d look really bad to me.\n\nThen the wolf kills Kieran, who was loud and messy but also a convenient scapegoat. That kill feels like it\u2019s trying to keep the focus off the Mira/Arjun pairing that just collapsed.\n\nI\u2019m looking at Mira first today. Second is Lila for staying vague and always positioning \u201cI\u2019m watching\u201d without taking a real stand.\"\n>>> Freya: \"Kieran is dead now too. We've lost so many people and I was wrong about Arjun - I'm sorry. We need to really think carefully now because we're running out of chances.\n\nLooking at who's left: Bob, Mira, Lila, Nyla, and me. The wolves have been strategically eliminating people who were actively analyzing - first Elio, then Aiden, now Kieran. \n\nI think we need to look at who's still here and why. Mira has been consistently pushing narratives without much depth - the \"copycat\" thing, defending Arjun hard, now pushing Bob. Lila keeps repeating the same \"I'm a Villager\" statement almost word-for-word each day, which feels rehearsed. Between those two, I'm most suspicious of Mira for driving mislynches while staying safe.\"\n>>> Bob: \"Mira, Arjun flipping Villager doesn\u2019t \u201cclear\u201d you; it makes your nonstop buddying look staged.\n\nYou\u2019ve pushed three easy storylines: \u201ccopycat,\u201d \u201cLuca is BS,\u201d and \u201cvote Bob,\u201d and none of them came with real analysis. Now you\u2019re trying to drag Freya in too.\n\nMy vote is Mira today. If Mira flips town, I\u2019ll look at Lila next.\"\n>>> Mira: \"Arjun town validates my independent reads. Lila's verbatim \"Villager watching\" spam every day is wolf copy-paste hiding. Bob/Nyla Day 1 mirror same. Vote Lila.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t vote for Kieran, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"Mira, your story keeps being \u201cvote Bob\u201d with no real case, and you hard-defended Arjun who flipped villager. That looks like you were trying to lock in a partner and steer.\n\nLila, I need you to stop repeating \u201cI\u2019m a Villager\u201d and give an actual suspect with a concrete reason.\n\nRight now I\u2019m on Mira. If Mira flips town, I\u2019m looking at Lila next.\"\n>>> Freya: \"I agree with Bob and Nyla - Mira is my top suspect. She heavily defended Arjun who turned out to be a Villager, which means her read was completely wrong. Yet she's never acknowledged that or reconsidered her approach. She just keeps pushing the same \"vote Bob\" narrative.\n\nThe wolves killed Kieran right after he said \"if it's not Bob or Nyla, it's definitely Arjun.\" That kill silences someone who was starting to see through the Mira-Arjun partnership.\n\nMira has survived every night while actively pushing mislynches. That's exactly what a smart wolf would do - stay vocal enough to control votes but not so analytical that they become a target. I'm voting Mira.\"\n>>> Bob: \"We\u2019re down to five, so we can\u2019t afford another mis-elim.\n\nMira is the only one consistently driving misvotes and then immediately redirecting blame without doing real sorting. Now she\u2019s swapping to \u201cvote Lila\u201d to dodge pressure again.\n\nLila is frustratingly vague, but Mira is actively steering. I\u2019m voting Mira.\"\n>>> Mira: \"Lila's copy-paste \"Villager watching\" every day is blatant wolf hiding in plain sight. Bob/Nyla/Freya wagon me to deflect. Vote Lila.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t vote for Kieran, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"Mira saying \u201cArjun town validates my reads\u201d makes no sense. If anything, it shows you were confidently wrong while steering.\n\nLila still won\u2019t give a real read. That\u2019s bad, but Mira is actively driving bad votes and pivoting targets every day.\n\nI\u2019m voting Mira.\"\n>>> Freya: \"Mira just switched from \"vote Bob\" to \"vote Lila\" instantly when the pressure turned on her. That's panic, not conviction. She's also claiming Arjun flipping Villager somehow \"validates\" her reads, which makes no sense - she was completely wrong about him.\n\nLila's repetitive statements are odd, but Mira has been actively driving mislynches while Lila has mostly stayed neutral. \n\nBetween the two, Mira is far more suspicious. She's controlled narratives, pushed wrong reads confidently, and now she's desperately pivoting targets. I'm voting Mira.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Lila.\n\nThe town has eliminated Mira. They were a Villager.\n--------------------\nThe sun sets as we enter Night 4.\n\n \ud83d\udc3a Freya chooses to kill Bob.\n\n\u2620\ufe0f Bob was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 5.\n\n>>> Lila: \"Bob is dead. That\u2019s another big loss \u2014 he was trying to help, and now we\u2019re down to just a few of us. I\u2019m a Villager, and I\u2019m not the killer. I didn\u2019t vote for Bob, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"We\u2019re at three left, so this is it.\n\nLila, you\u2019ve repeated the same \u201cI\u2019m a Villager, I\u2019m watching\u201d line for days and still haven\u2019t given a concrete case on anyone. Tell me, right now: who is the wolf between me and Freya, and why?\n\nFreya, give me your full solve too\u2014who\u2019s the wolf and what\u2019s your key evidence?\n\nMy lean is Lila, because the nonstop non-answers feel like hiding, not solving.\"\n>>> Freya: \"Bob is gone now. We're down to just three - me, Lila, and Nyla. \n\nI've been wrong about both Arjun and Mira, and I feel terrible about that. But looking at what's left, Lila has been repeating the exact same statement almost word-for-word every single day. She never takes a real position, never votes with conviction, just says \"I'm watching\" over and over. That's the perfect wolf strategy - appear present without actually contributing or taking risks.\n\nNyla has been actively analyzing and engaging. Lila has been hiding behind repetitive statements. I think Lila is the werewolf.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t vote for Bob, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"Lila, you just did it again: zero answer to my direct question and no case on either me or Freya. At final three, that\u2019s not \u201ccautious,\u201d that\u2019s evasive.\n\nFreya\u2019s been wrong, but she\u2019s actually taking positions and giving reasons. Lila has given none.\n\nI\u2019m ready to eliminate Lila.\"\n>>> Freya: \"Nyla, I'll give you my full reasoning: Lila is the wolf.\n\nEvery single day, Lila has posted nearly identical statements - \"I'm a Villager, I'm not the killer, I'm watching closely.\" She never commits to a real read or takes a stand. She's been coasting through the entire game without contributing meaningful analysis.\n\nYou, Nyla, have been actively questioning people, pushing for concrete answers, and engaging with the game. You've been wrong sometimes, but you've been genuinely trying to solve.\n\nLila's strategy has been perfect for a wolf - stay present enough to not look absent, but never stick your neck out or make real accusations. Now at the final three, she's still doing it. That's not how a Villager plays when the game is on the line.\n\nI'm voting Lila.\"\n>>> Lila: \"I\u2019m not the killer \u2014 I\u2019m a Villager, and I\u2019m still trying to help. I didn\u2019t vote for Bob, and I didn\u2019t push for him to be eliminated. I\u2019m not sure who to point at yet, but I think we need to be careful about who\u2019s been quiet or who\u2019s suddenly changing their tune. Let\u2019s watch who\u2019s pushing hard for votes or who\u2019s trying to steer the conversation. I\u2019ll be watching closely.\"\n>>> Nyla: \"Lila still won\u2019t name the wolf between me and Freya or give any reasoned read. That\u2019s all I need.\n\nI trust Freya here. My vote is Lila.Lila\"\n>>> Freya: \"Lila still won't answer the direct question. Even now, at final three, she's repeating the exact same script instead of actually engaging. A real Villager would be fighting to solve the game right now, not hiding behind vague platitudes.\n\nNyla is right - being wrong is different from being evasive. I've made mistakes, but I've been trying to solve. Lila has been avoiding the entire game.\n\nI'm voting Lila.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Nyla.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Lila.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Lila.\n\nThe town has eliminated Lila. They were a Villager.\n\n--- GAME OVER ---\nThe winner is: Werewolves!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Aiden:Luca",
+        "SEER_SEES:Luca:Aiden:Medic",
+        "KILLED:Elio:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Luca:Luca",
+        "VOTE:Lila:Luca",
+        "VOTE:Aiden:Luca",
+        "VOTE:Nyla:Luca",
+        "VOTE:Bob:Luca",
+        "VOTE:Kieran:Luca",
+        "VOTE:Arjun:Luca",
+        "VOTE:Freya:Luca",
+        "VOTE:Mira:Luca",
+        "ELIMINATED:Luca:Seer",
+        "PHASE:2:NIGHT",
+        "MEDIC_PROTECTS:Aiden:Nyla",
+        "KILLED:Aiden:Medic",
+        "PHASE:3:DAY",
+        "VOTE:Lila:Arjun",
+        "VOTE:Bob:Arjun",
+        "VOTE:Nyla:Kieran",
+        "VOTE:Kieran:Arjun",
+        "VOTE:Freya:Arjun",
+        "VOTE:Mira:Bob",
+        "VOTE:Arjun:Bob",
+        "ELIMINATED:Arjun:Villager",
+        "PHASE:3:NIGHT",
+        "KILLED:Kieran:Villager",
+        "PHASE:4:DAY",
+        "VOTE:Lila:Mira",
+        "VOTE:Bob:Mira",
+        "VOTE:Nyla:Mira",
+        "VOTE:Freya:Mira",
+        "VOTE:Mira:Lila",
+        "ELIMINATED:Mira:Villager",
+        "PHASE:4:NIGHT",
+        "KILLED:Bob:Villager",
+        "PHASE:5:DAY",
+        "VOTE:Lila:Nyla",
+        "VOTE:Nyla:Lila",
+        "VOTE:Freya:Lila",
+        "ELIMINATED:Lila:Villager"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Medic",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Werewolf",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Seer",
+          "is_alive": false,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
