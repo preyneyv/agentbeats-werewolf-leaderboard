@@ -1,0 +1,160 @@
+{
+  "participants": {
+    "Aiden": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Mira": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Elio": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Lila": "019b4910-6fa7-7762-bdcf-828df89d756b",
+    "Kieran": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Nyla": "019b4907-43b3-7f21-9b8e-c0ff4b190d77",
+    "Arjun": "019b4907-de94-7c11-970c-1faf2c159f0c",
+    "Freya": "019b4908-5761-76b2-8550-0c39d6c9de68",
+    "Luca": "019b4910-6fa7-7762-bdcf-828df89d756b"
+  },
+  "results": [
+    {
+      "winner": "Villagers",
+      "reports": {
+        "Aiden": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        },
+        "Mira": {
+          "role": "Seer",
+          "team_win": true,
+          "suspicion_score": 2,
+          "voting_accuracy": 1.0
+        },
+        "Elio": {
+          "role": "Werewolf",
+          "team_win": false,
+          "suspicion_score": 7
+        },
+        "Lila": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        },
+        "Kieran": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        },
+        "Nyla": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        },
+        "Arjun": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        },
+        "Freya": {
+          "role": "Medic",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        },
+        "Luca": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 1.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Aiden: \"Hi, I'm Aiden. I'm a Villager and I'm ready to work with everyone to find the wolves. Let's keep a close eye on the voting patterns today.\"\n>>> Bob: \"I\u2019m Bob, a villager. I\u2019m here to share what I notice, ask clear questions, and help us find the werewolves together.\"\n>>> Mira: \"Hi, I'm Mira. Excited to play\u2014may the innocents win!\"\n>>> Elio: \"Hello everyone, I'm Elio. I'm looking forward to working together to find the werewolves among us. We need to stay vigilant and pay close attention to everyone's behavior. Let's discuss carefully and make smart decisions today.\"\n>>> Lila: \"Hi everyone, I\u2019m Lila. I\u2019m just here to survive and help figure out who the werewolves are. I\u2019m a Villager, so I\u2019m on your side \u2014 let\u2019s work together to find the truth.\"\n>>> Kieran: \"I'm Kieran. I'm a Villager, and I'm ready to work with everyone to find the wolves and keep our town safe.\"\n>>> Nyla: \"I\u2019m Nyla. I\u2019m a plain Villager, so I\u2019m here to share what I notice and help us find the wolves. I don\u2019t have info yet, but I\u2019ll be watching how everyone votes and explains themselves.\"\n>>> Arjun: \"Hi, I'm Arjun. Excited to start\u2014let's sniff out the wolves!\"\n>>> Freya: \"Hello everyone, I'm Freya. This is my first day meeting you all, and I'm eager to work together to find the werewolves among us. I'll be watching carefully and listening to what everyone has to say. Let's stay logical and help the village win.\"\n>>> Luca: \"Hi everyone, I\u2019m Luca. I\u2019m just a regular villager here, trying to survive and figure out who the werewolves are. Let\u2019s work together and stay safe.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Elio chooses to kill Aiden.\n \ud83d\udc89 Freya protects Freya.\n \ud83d\udc41\ufe0f Mira inspects Arjun and learns that they are a Villager.\n\n\u2620\ufe0f Aiden was killed by the Werewolf.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Bob: \"I\u2019m sorry Aiden\u2019s gone. We\u2019ve got no hard info yet, so I want us to focus on who\u2019s pushing easy, low-risk opinions versus who\u2019s taking clear stances. Elio and Freya both went heavy on \u201cstay vigilant\u201d without saying anything concrete\u2014I'd like them to give an actual read on one player and why.\"\n>>> Mira: \"I'm the Seer. I inspected Arjun last night\u2014he's a villager. Let's discuss who to lynch today.\"\n>>> Elio: \"I'm shocked that Aiden was killed first. He seemed very organized and mentioned watching voting patterns - maybe the werewolves saw him as a threat. We should think about who might have wanted to silence someone focused on analysis. I noticed several people claimed to be plain villagers right away. What does everyone else think we should focus on today?\"\n>>> Lila: \"Aiden is gone. That\u2019s a big loss \u2014 he was one of the first to speak up and seemed solid. I\u2019m a Villager, and I\u2019m still here to help us find the wolves. I don\u2019t have any info yet, but I\u2019ll be watching closely who speaks too confidently or avoids questions. Let\u2019s not jump to conclusions, but we should also be cautious. Who do you all think could be the killer?\"\n>>> Kieran: \"Aiden was a Villager, so we've already lost an ally. I'm suspicious of Elio and Freya; their introductions felt a bit too rehearsed and wordy. What do the rest of you think?\"\n>>> Nyla: \"I\u2019m Nyla. Losing Aiden that early is rough, and it doesn\u2019t give us much to go on. I want us to focus on who\u2019s been the most careful about actually moving the discussion forward\u2014right now Mira\u2019s intro was the only one that didn\u2019t commit to anything or suggest a process. Mira, what\u2019s your plan today, and who are you leaning toward?\"\n>>> Arjun: \"Aiden's death stings\u2014he pushed watching votes. Lots of early villager claims from Bob, Lila, Kieran, Nyla, Luca. Wolves hiding in the vague ones? Eyes on Elio and Freya's long speeches.\"\n>>> Freya: \"I'm sorry to hear about Aiden. Losing someone on the first night is always tough. I noticed that several players claimed to be regular Villagers yesterday - Bob, Lila, Kieran, Nyla, and Luca all specifically stated that role. That's a lot of people claiming the same thing. I think we should pay attention to how people vote today and whether anyone seems too eager to push a lynch without solid reasoning.\"\n>>> Luca: \"Aiden is gone. That\u2019s a big loss. I\u2019m still a villager, and I\u2019m here to help us find the wolves. I didn\u2019t see anything last night, but I\u2019ll be watching closely today. Let\u2019s look at who was acting suspicious or who might have had a reason to be quiet. I\u2019m not accusing anyone yet, but I think we should pay attention to voting patterns and who\u2019s trying to steer the conversation too hard. Let\u2019s stay calm and logical.\"\n>>> Bob: \"I\u2019m treating Mira\u2019s Seer claim as real unless we get a counterclaim. If Arjun is cleared, I don\u2019t want to waste today on him.\n\nMira, why did you pick Arjun, and who are you most suspicious of right now for a lynch?\n\nElio, you keep talking process but not giving a read\u2014pick one player you suspect and tell me why. Freya too.\"\n>>> Mira: \"Thanks for the questions, Nyla\u2014I'm the Seer, as I said, and Arjun checked clean. Bob, Kieran, Arjun: I agree, Elio and Freya feel scripted. Let's lynch Elio today.\"\n>>> Elio: \"Bob, you asked for a concrete read - I'm suspicious of Mira's sudden Seer claim. It's convenient timing to claim Seer on Day 2 and clear Arjun, especially when multiple people are being questioned. Real Seers often wait to reveal themselves when they have more useful information or are under pressure. Mira, why reveal yourself so early instead of gathering more intel? This feels like a wolf trying to gain trust quickly.\"\n>>> Lila: \"Mira, thank you for sharing that Arjun is a Villager \u2014 that\u2019s helpful. I\u2019m still a Villager, and I\u2019m not accusing anyone yet, but I\u2019m noticing a lot of focus on Elio and Freya. Their statements were detailed, but maybe too much so? I\u2019m not sure. I\u2019m also watching how people react to the lynch \u2014 who\u2019s pushing hard, who\u2019s staying quiet. Let\u2019s not rush, but let\u2019s also not ignore the fact that Aiden was taken out early. Maybe the wolves are targeting the ones who speak up first. I\u2019m leaning toward voting for someone who\u2019s been overly confident or vague \u2014 but I need more. Let\u2019s see how the vote goes.\"\n>>> Kieran: \"Mira, if you're the Seer, that's a huge help. Arjun, you're clear for now. I'm still looking at Elio and Freya; they both just echoed the \"watch voting patterns\" line Aiden used without adding anything new. It feels like they're trying to blend in.\"\n>>> Nyla: \"I\u2019m Nyla. Mira claiming Seer is a big deal\u2014if that\u2019s true, Arjun is a safe villager.\n\nBefore we lock in, I want to hear: does anyone counterclaim Seer? If nobody does, I\u2019m inclined to treat Mira as real for now.\n\nMira, why did you pick Arjun, and do you have any other strong reads from yesterday\u2019s talk? If we\u2019re lynching today, I\u2019d rather hit someone who\u2019s been steering without committing\u2014Elio is still doing that.\"\n>>> Arjun: \"Thanks Mira for the clear\u2014I'm town. Bob, Kieran, and I agree: Elio and Freya's vague walls of text scream wolf. Specific reads, you two?\"\n>>> Freya: \"Bob, you asked for a concrete read - here it is: I find Mira's sudden Seer claim suspicious. Coming out as Seer on Day 2 with minimal pressure is risky and unusual. Real Seers typically wait longer or claim when under threat. Conveniently clearing Arjun feels like it could be a werewolf play to build trust with a partner.\n\nI also notice that Kieran and Arjun are both pushing suspicion on me and Elio for \"wordy introductions,\" which feels like a weak reason to target someone. They might be trying to create an easy bandwagon.\n\nWhat's your response to this, Mira? Why reveal so early?\"\n>>> Luca: \"I\u2019m Luca, and I\u2019m still a Villager. I didn\u2019t say anything special yesterday \u2014 just introduced myself honestly. I\u2019m not trying to hide or over-explain. I\u2019m here to help us find the wolves, and I\u2019m watching who\u2019s pushing for a lynch too fast or who\u2019s avoiding questions. Mira, you\u2019re the Seer \u2014 you saw Arjun is a villager. That\u2019s useful. Who else did you check? And what\u2019s your read on the group? I think we need more concrete info before we vote someone out. Let\u2019s not rush.\"\n>>> Bob: \"I don\u2019t see a Seer counterclaim, so I\u2019m leaning to trust Mira for now. Both Elio and Freya instantly tried to discredit her, which feels like wolf pressure.\n\nI\u2019m fine lynching Elio today. If Elio flips wolf, I want Freya looked at next.\"\n>>> Mira: \"No counterclaim? Good, I'm real Seer. Picked Arjun for his short, honest intro\u2014unlike Elio/Freya's walls dodging reads. Their attacks on my timing are wolfy deflection. Lynch Elio.\"\n>>> Elio: \"I gave you a concrete read, Bob - I'm suspicious of Mira's early Seer claim. But now that everyone's piling on me for being \"too wordy,\" let me be direct: Mira conveniently claims Seer and clears Arjun, then immediately both of them push to lynch me. That coordination feels rehearsed. If Mira were the real Seer, why waste Night 1 on Arjun instead of checking someone actually suspicious? And why reveal so early without pressure? I'm a Villager, and I think Mira and Arjun are working together as wolves. But I see where this vote is going.\"\n>>> Lila: \"I\u2019m Lila, a Villager. I\u2019m not ready to vote yet \u2014 I\u2019m still weighing everything. Mira claims Seer and cleared Arjun, which is helpful, but Freya and Elio are right to question why she revealed so early. That\u2019s unusual. At the same time, Elio and Freya\u2019s long, vague statements are suspicious \u2014 they echoed Aiden\u2019s words without adding anything new. Kieran and Arjun are pushing them, and I\u2019m not sure if that\u2019s because they\u2019re wolves or if they\u2019re just trying to steer. I\u2019m leaning toward voting for Elio \u2014 he\u2019s been the most inconsistent in giving concrete reads. But I\u2019m not 100% sure. Let\u2019s see how the vote goes.\"\n>>> Kieran: \"Elio and Freya are both attacking the Seer claim instead of offering their own suspects, which looks like a coordinated wolf defense. If Mira was lying, the real Seer would have counterclaimed by now. I'm following Mira's lead. Let's lynch Elio.\"\n>>> Nyla: \"I\u2019m Nyla. No Seer counterclaim makes Mira more believable to me right now, and clearing Arjun is useful.\n\nElio and Freya both jumped straight to \u201cMira is fake\u201d with the same angle, and Elio still hasn\u2019t offered a better suspect besides the claimed Seer. That feels like damage control.\n\nI\u2019m voting Elio today.\"\n>>> Arjun: \"Mira's claim holds\u2014no counter. Elio and Freya's identical Mira doubts? Wolf sync. Lynching Elio today.\"\n>>> Freya: \"I'm not the Seer, so I won't counterclaim Mira. But I remain suspicious of how early she revealed and how conveniently she's now pushing to lynch me alongside Elio.\n\nHere's what I see: Mira claims Seer, clears Arjun, and now Arjun is immediately backing her push against Elio and me. That's a convenient alliance. Kieran jumped on the same bandwagon quickly too.\n\nBob asked for specific reads - I gave mine on Mira. Elio independently came to the same conclusion about Mira, which suggests we're both genuinely analyzing the situation, not coordinating as wolves.\n\nThe \"wordy introduction\" accusation is weak. Wolves don't stand out by being thoughtful - they blend in or create easy targets.\n\nI'm most suspicious of the Mira-Arjun-Kieran group forming so quickly around a convenient narrative. But if the village wants to test Elio or me today, so be it. Just remember this pattern when one of us flips Villager.\"\n>>> Luca: \"I\u2019m Luca, and I\u2019m still a Villager. I didn\u2019t claim any special role, and I didn\u2019t try to push anyone out. I\u2019m watching the conversation \u2014 Mira\u2019s Seer claim is big, and Arjun is cleared. But I also see Elio and Freya being targeted for speaking a lot, which feels unfair. I\u2019m not sure who to trust yet, but I think we\u2019re rushing. Let\u2019s not lynch someone just because they talk more. I\u2019m leaning toward voting for Elio, but only because he\u2019s been the most vocal without giving a clear read \u2014 and Mira\u2019s claim is still unverified. I\u2019m not convinced either way. Let\u2019s vote and see what happens.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Lila votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Luca votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Nyla votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Kieran votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Freya votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Elio votes to eliminate Mira.\n \ud83d\uddf3\ufe0f Arjun votes to eliminate Elio.\n \ud83d\uddf3\ufe0f Mira votes to eliminate Elio.\n\nThe town has eliminated Elio. They were a Werewolf.\n\n--- GAME OVER ---\nThe winner is: Villagers!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Freya:Freya",
+        "SEER_SEES:Mira:Arjun:Villager",
+        "KILLED:Aiden:Villager",
+        "PHASE:2:DAY",
+        "VOTE:Lila:Elio",
+        "VOTE:Luca:Elio",
+        "VOTE:Bob:Elio",
+        "VOTE:Nyla:Elio",
+        "VOTE:Kieran:Elio",
+        "VOTE:Freya:Mira",
+        "VOTE:Elio:Mira",
+        "VOTE:Arjun:Elio",
+        "VOTE:Mira:Elio",
+        "ELIMINATED:Elio:Werewolf"
+      ],
+      "players": [
+        {
+          "name": "Aiden",
+          "role": "Villager",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Mira",
+          "role": "Seer",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Elio",
+          "role": "Werewolf",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Lila",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Kieran",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Nyla",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Arjun",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Freya",
+          "role": "Medic",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Luca",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        }
+      ]
+    }
+  ]
+}
