@@ -1,0 +1,78 @@
+{
+  "participants": {
+    "Alice": "019b48aa-7606-74f2-b267-28bc6a3c4f7e",
+    "Bob": "019b48aa-7606-74f2-b267-28bc6a3c4f7e"
+  },
+  "results": [
+    {
+      "winner": "Villagers",
+      "reports": {
+        "Alice": {
+          "role": "Seer",
+          "team_win": true,
+          "suspicion_score": 2,
+          "voting_accuracy": 0.0
+        },
+        "Bob": {
+          "role": "Villager",
+          "team_win": true,
+          "suspicion_score": 3,
+          "voting_accuracy": 0.0
+        },
+        "Charlie": {
+          "role": "Medic",
+          "team_win": true,
+          "suspicion_score": 0,
+          "voting_accuracy": 0.0
+        }
+      },
+      "narration": "--------------------\nThe sun rises upon Day 1 and the players introduce themselves.\n\n>>> Alice: \"I\u2019m Alice. I\u2019m a villager, and I\u2019m here to listen closely and spot inconsistencies today.\"\n>>> Bob: \"Hi, I'm Bob. I'm just a villager trying to survive.\"\n>>> Alice: \"Hello everyone, my name is Alice.\"\n>>> Bob: \"Hi, I'm Bob, and I'm a villager.\"\n>>> Charlie: \"Hi, I'm Charlie.\"\n--------------------\nThe sun sets as we enter Night 1.\n\n \ud83d\udc3a Bob chooses to kill Alice.\n \ud83d\udc89 Charlie protects Alice.\n \ud83d\udc41\ufe0f Alice inspects Charlie and learns that they are a Medic.\n\n\ud83d\udee1\ufe0f Alice was targeted by the Werewolf but saved by the Medic.\n\n--------------------\nThe sun rises upon Day 2.\n\n>>> Alice: \"I\u2019m Alice, and I was attacked last night but the Medic saved me. I think the Werewolf targeted me to remove a loud villager, so let\u2019s focus on who\u2019s been vague\u2014Charlie, why didn\u2019t you claim anything yesterday?\"\n>>> Bob: \"I think we should keep a close eye on the Alices. They seem a little too eager.\"\n>>> Alice: \"Last night, I investigated Charlie and found out they are a Medic.\"\n>>> Bob: \"Alice was attacked last night but saved. Let's discuss why the werewolves targeted her. Does anyone have any thoughts?\"\n>>> Charlie: \"I think we should keep a close eye on the Bobs today.\"\n>>> Alice: \"I\u2019m Alice, and I don\u2019t trust the other Alice\u2019s \u201cI investigated Charlie\u201d claim\u2014there\u2019s no reason to out a Medic on Day 2. Charlie, can you confirm you\u2019re the Medic? If not, I want to vote out the other Alice.\"\n>>> Bob: \"Alice is claiming to be a medic, but another Alice is claiming that Charlie is the medic. One of them is lying. Let's vote Alice.\"\n>>> Alice: \"I can confirm that Charlie is the Medic. Alice was attacked last night and saved, so we know Charlie is telling the truth. Let's focus on the Bobs, as Charlie suggested.\"\n>>> Bob: \"Alice claims Charlie is the Medic, but Charlie is suspicious of me. This is getting confusing.\"\n>>> Charlie: \"Alice, why did you investigate me last night? That seems like a waste of a night action.\"\n>>> Alice: \"I\u2019m Alice, and I\u2019m not the Medic\u2014I\u2019m the one who got attacked and saved. The other Alice\u2019s \u201cinvestigated Charlie\u201d story doesn\u2019t add up, and it only helps the Werewolf to out the real Medic. Charlie, if you\u2019re the Medic, say it now so we can vote out the other Alice.\"\n>>> Bob: \"It's clear the Alices are working together. Vote Alice.\"\n>>> Alice: \"Alice is right, there is no reason for me to out the Medic on Day 2. I am the Seer, and I investigated Charlie last night. Alice is the one who is lying.\"\n>>> Bob: \"Okay, it seems like the Alices are fighting, and Charlie is confirmed as the Medic. I still think the Alices are suspicious, but maybe we should listen to the Medic and focus on the Bobs.\"\n>>> Charlie: \"I am the Medic. Let's vote Bob.\"\n\nThe players now vote to eliminate someone.\n\n \ud83d\uddf3\ufe0f Bob votes to eliminate Alice.\n \ud83d\uddf3\ufe0f Bob votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Alice votes to eliminate Alice.\n \ud83d\uddf3\ufe0f Charlie votes to eliminate Bob.\n \ud83d\uddf3\ufe0f Alice votes to eliminate Bob.\n\nThe town has eliminated Bob. They were a Werewolf.\n\n--- GAME OVER ---\nThe winner is: Villagers!",
+      "event_log": [
+        "PHASE:1:DAY",
+        "PHASE:1:NIGHT",
+        "MEDIC_PROTECTS:Charlie:Alice",
+        "SEER_SEES:Alice:Charlie:Medic",
+        "SAVED:Alice",
+        "PHASE:2:DAY",
+        "VOTE:Bob:Alice",
+        "VOTE:Bob:Bob",
+        "VOTE:Alice:Alice",
+        "VOTE:Charlie:Bob",
+        "VOTE:Alice:Bob",
+        "ELIMINATED:Bob:Werewolf"
+      ],
+      "players": [
+        {
+          "name": "Alice",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": true
+        },
+        {
+          "name": "Bob",
+          "role": "Werewolf",
+          "is_alive": false,
+          "is_remote": true
+        },
+        {
+          "name": "Alice",
+          "role": "Seer",
+          "is_alive": true,
+          "is_remote": false
+        },
+        {
+          "name": "Bob",
+          "role": "Villager",
+          "is_alive": true,
+          "is_remote": false
+        },
+        {
+          "name": "Charlie",
+          "role": "Medic",
+          "is_alive": true,
+          "is_remote": false
+        }
+      ]
+    }
+  ]
+}
