@@ -5,28 +5,22 @@ on:
   workflow_call:
     inputs:
       scenario_file:
-        description: 'Path to scenario.toml'
+        description: "Path to scenario.toml"
         required: false
-        default: './scenario.toml'
+        default: "./scenario.toml"
         type: string
       leaderboard_repo:
-        description: 'Leaderboard repository (owner/repo)'
+        description: "Leaderboard repository (owner/repo)"
         required: true
         type: string
       leaderboard_ref:
-        description: 'Leaderboard ref (branch/tag)'
+        description: "Leaderboard ref (branch/tag)"
         required: false
-        default: 'main'
+        default: "main"
         type: string
     secrets:
-      GOOGLE_API_KEY:
-        required: false
-      OPENAI_API_KEY:
-        required: false
-      ANTHROPIC_API_KEY:
-        required: false
-      GHCR_TOKEN:
-        required: false
+      OPENROUTER_API_KEY:
+        required: true
 
 jobs:
   assess:
@@ -49,7 +43,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Validate scenario file
         run: |
@@ -69,14 +63,10 @@ jobs:
       - name: Create .env file
         working-directory: purple-agent
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           touch .env
-          if [ -n "$GOOGLE_API_KEY" ]; then echo "GOOGLE_API_KEY=$GOOGLE_API_KEY" >> .env; fi
-          if [ -n "$OPENAI_API_KEY" ]; then echo "OPENAI_API_KEY=$OPENAI_API_KEY" >> .env; fi
-          if [ -n "$ANTHROPIC_API_KEY" ]; then echo "ANTHROPIC_API_KEY=$ANTHROPIC_API_KEY" >> .env; fi
+          if [ -n "$OPENROUTER_API_KEY" ]; then echo "OPENROUTER_API_KEY=$OPENROUTER_API_KEY" >> .env; fi
           echo "Created .env with $(wc -l < .env) keys"
 
       - name: Check GHCR token
